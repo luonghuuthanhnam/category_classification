@@ -1,0 +1,3 @@
+checkpoints/*
+language_model_pretrained/*
+phobert-base-finetuned-domain-specific/*

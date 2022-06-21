@@ -1,0 +1,4478 @@
+[
+  {
+    "sentence": "Bánh Quy Oreo Kem Socola 133G",
+    "label": 0
+  },
+  {
+    "sentence": "Sốt Mayonnaise Kewpie Hương Vị Nhật 300G",
+    "label": 12
+  },
+  {
+    "sentence": "Đũa gỗ sạch dùng 1 lần Bamboo 50 đôi + tăm",
+    "label": 15
+  },
+  {
+    "sentence": "Nho Đỏ Khô Chile Nguyên Cuống Oh Smile Nuts 500G",
+    "label": 13
+  },
+  {
+    "sentence": "Lốc 3 Milo Ngũ Cốc Bữa Sáng Cân Bằng Hộp 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Nước Rửa Tay Aquala Trà Xanh 500Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Thau Inox 304 Super Chef Có Vạch Lường SC_DB3115 15Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Ngọt AJE Big Cam 3.1L",
+    "label": 29
+  },
+  {
+    "sentence": "Kem Dưỡng L'Oreal Revitalift Chống Lão Hóa Ban Ngày SPS 23 50Ml",
+    "label": 4
+  },
+  {
+    "sentence": "Sữa Rửa Mặt Nivea Men Sáng Da & Kiểm Soát Nhờn 100G",
+    "label": 4
+  },
+  {
+    "sentence": "Decal cửa",
+    "label": 26
+  },
+  {
+    "sentence": "Tắm Gội Xmen 2in1 Fire 12H Thơm Lâu 900G",
+    "label": 6
+  },
+  {
+    "sentence": "Hợp đồng mua bán số (Sales contract No.):202111LA0008",
+    "label": 16
+  },
+  {
+    "sentence": "Cải Phụng Baby Vietgap 350G",
+    "label": 18
+  },
+  {
+    "sentence": "Trứng Vịt Kho Ăn Liền Vfood Túi 2 Trứng 90G",
+    "label": 25
+  },
+  {
+    "sentence": "Nhân Óc Chó Pam's 200G",
+    "label": 0
+  },
+  {
+    "sentence": "Bột Giặt Ariel Downy Hương Đam Mê 3.8Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Mật Ong Mộc Sơn 710G",
+    "label": 21
+  },
+  {
+    "sentence": "Kem Đánh Răng Darlie Trắng Răng 140G",
+    "label": 5
+  },
+  {
+    "sentence": "Lô 2 Bàn Chải Đánh Răng Colgate Slim Soft Charcoal",
+    "label": 5
+  },
+  {
+    "sentence": "Pate Gan Le Gourmet 200G",
+    "label": 20
+  },
+  {
+    "sentence": "Phô Mai Lactima Active Cow Light 8 Miếng 120G",
+    "label": 20
+  },
+  {
+    "sentence": "Táo Envy Newzealand size 70",
+    "label": 24
+  },
+  {
+    "sentence": "ĂN UỐNG",
+    "label": 17
+  },
+  {
+    "sentence": "Thanh giằng rod D12_L=6760_Gr 4.6_mạ kẽm nhúng nóng",
+    "label": 9
+  },
+  {
+    "sentence": "Canh Rong Biển Miso Asuzac Hộp 10Gói*4G",
+    "label": 22
+  },
+  {
+    "sentence": "Mì Ý Linguine Pietro Coricelli 500G",
+    "label": 22
+  },
+  {
+    "sentence": "Cải Dún Organic Happy Vegi Gói 250G",
+    "label": 18
+  },
+  {
+    "sentence": "Snack Rong Biển Tao Kae Noi Bigbang Mực 6G",
+    "label": 0
+  },
+  {
+    "sentence": "Gạo Hoa Lúa Xanh 5Kg",
+    "label": 13
+  },
+  {
+    "sentence": "Cháo Tươi Cây Thị Bào Ngư 260G",
+    "label": 22
+  },
+  {
+    "sentence": "Khoai Tây Farm Best Cắt Thẳng Straight Cut Gói 1Kg",
+    "label": 23
+  },
+  {
+    "sentence": "Sữa Rửa Mặt Pond's Acne Clear Ngừa Mụn 100G",
+    "label": 4
+  },
+  {
+    "sentence": "Cải Thìa Baby DALATGAP 300G",
+    "label": 18
+  },
+  {
+    "sentence": "Lốc 3 Sữa Hạnh Nhân Almond Breeze Nguyên Chất Không Đường Hộp 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Há Cảo Hai Thanh Tôm Mini 300G",
+    "label": 23
+  },
+  {
+    "sentence": "Mũi taro L6868 M12x1.75R",
+    "label": 9
+  },
+  {
+    "sentence": "Đậu Phộng Amero Tân Tân Cappuccino 100G",
+    "label": 0
+  },
+  {
+    "sentence": "DẦU GIÓ SIANG PURE 3CC ( 12 CHAI/LỐ )",
+    "label": 27
+  },
+  {
+    "sentence": "Thanh Long",
+    "label": 24
+  },
+  {
+    "sentence": "Băng Vệ Sinh Diana 4 Teen Siêu Mỏng Cánh 8 Miếng*24Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Xúc Xích Tiệt Trùng Ponnie Thịt Heo Cây 45G",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Gạo Tokpokki Ottogi Jin Vị Cay Ly 82G",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Quế Fullo Socola Hộp 276G",
+    "label": 0
+  },
+  {
+    "sentence": "Xúc Xích Tiệt Trùng CP Gold Gói 5*40G",
+    "label": 22
+  },
+  {
+    "sentence": "Táo Fuji Nam Phi túi 3kg",
+    "label": 24
+  },
+  {
+    "sentence": "Băng Vệ Sinh Kotex Thảo Dược Siêu Mềm Không Cánh 23Cm Gói 8 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "Mì Xào Koreno Rabokki Gói 102G",
+    "label": 22
+  },
+  {
+    "sentence": "Chảo Rán Lock&Lock Stone LCA6243D-IH 24Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Cháo Tươi SG Food Baby Cua Và Đậu Hà Lan Hộp 240G",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Choco P&N Bịch 216G",
+    "label": 0
+  },
+  {
+    "sentence": "Trà Xanh C2 Hương Khế Mật Ong Chai 455Ml",
+    "label": 29
+  },
+  {
+    "sentence": "MỰC IN CF412A",
+    "label": 26
+  },
+  {
+    "sentence": "Xà Bông Cục Lifebuoy Matcha & Khổ Qua 90G",
+    "label": 3
+  },
+  {
+    "sentence": "Phần mềm Enscape Fixed-Seat License yearly subscription (XUẤT HÓA ĐƠN THEO PO SỐ: 1595757, 17/9/2021)",
+    "label": 17
+  },
+  {
+    "sentence": "Miếng cọ rửa không trầy 3 lớp Kinkit",
+    "label": 15
+  },
+  {
+    "sentence": "Gói Bổ Sung Khăn Giấy Hộp Let Green 1000 Tờ",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Tẩy Bồn Cầu Vim Fresh Hương Chanh Sả 870Ml",
+    "label": 15
+  },
+  {
+    "sentence": "Rau Dền Cơm Baby Vietgap 350G",
+    "label": 18
+  },
+  {
+    "sentence": "Sữa tắm gội Cetaphil Baby 230ml",
+    "label": 2
+  },
+  {
+    "sentence": "Snack Khoai Tây Slide Vị BBQ 160G",
+    "label": 0
+  },
+  {
+    "sentence": "Nước Ngọt Mirinda Cam 390Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Bánh Quy Cosy Nhân Thơm Hộp Giấy 240G",
+    "label": 0
+  },
+  {
+    "sentence": "Xà Bông Cục Double Rich Hoa Hồng 90G",
+    "label": 3
+  },
+  {
+    "sentence": "Bia 333 330Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Lốc 4 Sữa Bột Pha Sẵn Growplus Tăng Cân Khỏe Mạnh Hộp Giấy 110Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Phí cung cấp dịch vụ quản lý và gửi tin nhắn tháng 02/2021",
+    "label": 17
+  },
+  {
+    "sentence": "Gel Tắm Men.O.Logy Ngăn Mùi 24H Take Change 630Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Bánh Xếp Mandu Bibigo Nhân Thịt 350G",
+    "label": 23
+  },
+  {
+    "sentence": "Nước khoáng ALBA Natural 450ml/chai",
+    "label": 29
+  },
+  {
+    "sentence": "Há Cảo Cầu Tre Nhân Hải Sản Gói 500G",
+    "label": 23
+  },
+  {
+    "sentence": "Đậu Cove Hữu Cơ Food King 250G",
+    "label": 18
+  },
+  {
+    "sentence": "Dầu Xả Argan Nuôi Dưỡng Tóc Simply Essentials Chai 400Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Hóa chất chloramine B 25% - 1kg/gói (Tiệp) PO 21/00537 ",
+    "label": 8
+  },
+  {
+    "sentence": "Nấm Linh Chi Nâu Hokto 100G",
+    "label": 18
+  },
+  {
+    "sentence": "Dầu Gấc Tường An Vio 250Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Bột Chiên Giòn Miwon 100G",
+    "label": 12
+  },
+  {
+    "sentence": "Bulong neo U20x400_Gr 4.6_mạ kẽm nhúng nóng",
+    "label": 9
+  },
+  {
+    "sentence": "Lốc 4 Sữa Chua Ăn TH True Yogurt Men Sống Trái Cây 100G",
+    "label": 20
+  },
+  {
+    "sentence": "Dầu Tường An Gold 1L",
+    "label": 12
+  },
+  {
+    "sentence": "Sữa Dưỡng Thể Chống Nắng Skin Aqua Whitening Tuýp 150Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Tã Quần GooDry Lớn XXL44",
+    "label": 2
+  },
+  {
+    "sentence": "Lốc 5 Mì Nissin Súp Cay Gói 68G",
+    "label": 22
+  },
+  {
+    "sentence": "Sữa Tắm Double Rich Hoa Lily 800G",
+    "label": 3
+  },
+  {
+    "sentence": "Bột Ngũ Vị Hương Ông Chà Và Gói 10G",
+    "label": 12
+  },
+  {
+    "sentence": "Item:90641518 - DN:2051142796",
+    "label": 7
+  },
+  {
+    "sentence": "Snack Khoai Tây Slide Vị Tự Nhiên Hộp 160G",
+    "label": 0
+  },
+  {
+    "sentence": "SGN HAN SGN",
+    "label": 10
+  },
+  {
+    "sentence": "Bông Lan Cuộn Red Velvet",
+    "label": 0
+  },
+  {
+    "sentence": "Borges Extra Light Olive  250ml (SN) * 12",
+    "label": 12
+  },
+  {
+    "sentence": "Kem Đánh Răng Colgate Optic White Volcanic Mineral 100G",
+    "label": 5
+  },
+  {
+    "sentence": "Thanh Cua Surimi Mayumi 250G",
+    "label": 23
+  },
+  {
+    "sentence": "Kim Chi Cải Thảo Lee&Kim Mama 400G",
+    "label": 22
+  },
+  {
+    "sentence": "Bột Ngọt Miwon 454G",
+    "label": 12
+  },
+  {
+    "sentence": "Dạ quang Thiên Long HL-03",
+    "label": 26
+  },
+  {
+    "sentence": "Hoa Cẩm Chướng Đơn",
+    "label": 15
+  },
+  {
+    "sentence": "Dầu Gội Palmolive Naturals Siêu Mượt 600Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Dầu Ăn Neptune Light 1L",
+    "label": 12
+  },
+  {
+    "sentence": "Mì Spaghetti Barilla Sợi Trung  Số 3 500G",
+    "label": 22
+  },
+  {
+    "sentence": "Sữa Tắm Safeguard Chanh Thơm Mát 720Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Nước Ngọt Fanta Cam 390Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Cà Phê Sáng 3IN1 Sữa Đá 12 Gói*18G",
+    "label": 29
+  },
+  {
+    "sentence": "Snack Khoai Tây Slide Vị Kem Và Hành Tây 100G",
+    "label": 0
+  },
+  {
+    "sentence": "Xốt Mayonnaise Ottogi Gold Chai 130G",
+    "label": 12
+  },
+  {
+    "sentence": "Thơm (khóm) trái còn vỏ kg",
+    "label": 24
+  },
+  {
+    "sentence": "Khăn Ướt Baby Nuna Hương Phấn 80 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "Dầu Đậu Nành Meizan 1L",
+    "label": 12
+  },
+  {
+    "sentence": "Mì A-One Gà 85G",
+    "label": 22
+  },
+  {
+    "sentence": "Mang cá Cam nướng",
+    "label": 22
+  },
+  {
+    "sentence": "Mì Gấu Đỏ Chay Rau Nấm Gói 63G",
+    "label": 22
+  },
+  {
+    "sentence": "Bắp Bò Pacow 250G",
+    "label": 25
+  },
+  {
+    "sentence": "Nước Rửa Tay L'Affair Diệt Khuẩn Hương Táo 500Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Set 3 Bánh Bao Túi Tiền Tài Lộc",
+    "label": 0
+  },
+  {
+    "sentence": "Trà Bí Đao Yeo's 300Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Nước Ngọt Pepsi Cola 390Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Rau Diếp Cá Rau Cười Việt Nhật 100G",
+    "label": 18
+  },
+  {
+    "sentence": "Táo Soya Newzealand",
+    "label": 24
+  },
+  {
+    "sentence": "Khẩu trang y tế cao cấp 4 lớp Gold  mask - Màu Xanh  (H/50c, T/50h)",
+    "label": 27
+  },
+  {
+    "sentence": "Sốt Mayonnaise Ottogi 400G",
+    "label": 12
+  },
+  {
+    "sentence": "Sốt Mayonnaise Simply Gạo Rang Chai 230G",
+    "label": 12
+  },
+  {
+    "sentence": "Nước Mắm Nam Ngư Phú Quốc 500Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Bánh Quy Pep.Farm Milano Chocolate Sữa 170G",
+    "label": 0
+  },
+  {
+    "sentence": "Nước Tương Nam Dương Đậm Đặc 280Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Bánh Custas Kem Sữa Hộp 12 Gói 282G",
+    "label": 0
+  },
+  {
+    "sentence": "Khẩu Trang Y Tế Trường Dương N95 Gold Mask Hộp 20 Cái",
+    "label": 15
+  },
+  {
+    "sentence": "Lốc 6 Sữa Tươi Tiệt Trùng Promess Socola Hộp 200Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Salad Cá Ngừ Và Bơ",
+    "label": 22
+  },
+  {
+    "sentence": "Bột Ăn Dặm Ridielac Gold Gạo Trái Cây Hộp Giấy 200G",
+    "label": 2
+  },
+  {
+    "sentence": "Sáp Thơm Ami Jasmine 200G",
+    "label": 15
+  },
+  {
+    "sentence": "Nồi Cơm Điện Tử Niêu Supor CFXB50FC33VN_75 1.8L",
+    "label": 15
+  },
+  {
+    "sentence": "Cà Mên Giữ Nhiệt Zebra 123006 650Ml (P) 2203",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Ngọt 7Up 1.5L",
+    "label": 29
+  },
+  {
+    "sentence": "Chiết khấu 6.00%",
+    "label": 1
+  },
+  {
+    "sentence": "Khăn Tắm Màu BK01 58*116Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Dầu Gội Fresh Phục Hồi Hư Tổn Nha Đam 650G",
+    "label": 6
+  },
+  {
+    "sentence": "Combo 2 Kem Đánh Răng Colgate Maxfresh Bạc Hà 175G",
+    "label": 5
+  },
+  {
+    "sentence": "Bún Khô Gạo Lứt Việt San 300G",
+    "label": 22
+  },
+  {
+    "sentence": "Ngũ Cốc Dinh Dưỡng Việt Đài Gói 500G",
+    "label": 21
+  },
+  {
+    "sentence": "Lốc 10 Cuộn Giấy Vệ Sinh Saigon Care",
+    "label": 15
+  },
+  {
+    "sentence": "Sữa Dinh Dưỡng Vinamilk Socola Bịch 220Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Sữa Đặc Có Đường Ông Thọ Đỏ Tuýp 165G",
+    "label": 19
+  },
+  {
+    "sentence": "Bơ sáp – loại 1",
+    "label": 24
+  },
+  {
+    "sentence": "Cà Phê Sữa Đá Tươi Ông Bầu 10 Gói*24G",
+    "label": 29
+  },
+  {
+    "sentence": "Táo Fuji Nhật",
+    "label": 24
+  },
+  {
+    "sentence": "Nước Tương Nam Dương Thượng Hạng 210Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Mỳ ý spaghetti 03 - 500g - Pasta Zara",
+    "label": 22
+  },
+  {
+    "sentence": "Nĩa Ăn Nhỏ Inox Kim Cương",
+    "label": 15
+  },
+  {
+    "sentence": "Hóa chất Piperazine, 99%, extra pure 100g/chai (Acros) PO: 21/01539  +  21/01538 ",
+    "label": 8
+  },
+  {
+    "sentence": "Lốc 4 Sữa Bột Pha Sẵn Growplus Suy Dinh Dưỡng 180Ml",
+    "label": 2
+  },
+  {
+    "sentence": "Tiền thuê mặt bằng từ 01.04.2021 đến 30.04.2021 lô B1-S2",
+    "label": 17
+  },
+  {
+    "sentence": "Bánh mì Otto Sandwich tươi lạt  220 (220g x 6bịch)",
+    "label": 0
+  },
+  {
+    "sentence": "Sữa Tắm Gội Trẻ Em Online Vị Kẹo Bubble Gum 500Ml",
+    "label": 2
+  },
+  {
+    "sentence": "Tôm Khô VS Foods Cỡ L Hũ 200G",
+    "label": 22
+  },
+  {
+    "sentence": "Mặt Nạ Dưỡng Da Benew Mật Ong 22Ml",
+    "label": 4
+  },
+  {
+    "sentence": "Xúc Xích Vissan Phô Mai 200G",
+    "label": 20
+  },
+  {
+    "sentence": "Khăn Ướt Huggies Lau Sạch Dưỡng Ẩm 72 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "Thạch Sữa Chua Cherish (Cúp 16G) Túi 1Kg",
+    "label": 0
+  },
+  {
+    "sentence": "Gel Rửa Mặt Simple Giảm Nhờn 150Ml",
+    "label": 4
+  },
+  {
+    "sentence": "(Mẫu Tết) Kẹo Alpenliebe Hương Cà Phê Dừa 329G",
+    "label": 0
+  },
+  {
+    "sentence": "Cà Phê The Coffee House 3in1 Đậm Vị Việt 18 Gói*16G",
+    "label": 29
+  },
+  {
+    "sentence": "Cơm tấm (Trứng Ốp La Thêm)",
+    "label": 22
+  },
+  {
+    "sentence": "Sữa Chống Nắng Biore UV Mát Lạnh SPF 50+ PA++++ 25Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Bánh Quy Oreo Mini Vani 204G",
+    "label": 0
+  },
+  {
+    "sentence": "Phở Đệ Nhất Vị Nghêu Gói 64G",
+    "label": 22
+  },
+  {
+    "sentence": "Lăn Khử Mùi Xmen Wood 50Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Bình Xịt Diệt Kiến Ars Jet Ant 500Ml",
+    "label": 15
+  },
+  {
+    "sentence": "Cà Phê Nâu Đá Việt Nam Wake-up 30 Gói*24G",
+    "label": 29
+  },
+  {
+    "sentence": "Gừng (Kg)",
+    "label": 18
+  },
+  {
+    "sentence": "Nước Ngọt Pepsi Zero Calories Lon 320Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Thanh giằng rod D12_L=8430_Gr 4.6_mạ kẽm nhúng nóng",
+    "label": 9
+  },
+  {
+    "sentence": "Nước Cam Ép Teppy 1L",
+    "label": 29
+  },
+  {
+    "sentence": "Lẩu Rau Nấm 600G",
+    "label": 18
+  },
+  {
+    "sentence": "Lốc 3 Thạch Sữa Chua Pudding Swecco Nguyên Chất Hũ 80G",
+    "label": 0
+  },
+  {
+    "sentence": "Hạt Nêm Neptune 4IN1 Vị Heo 850G",
+    "label": 12
+  },
+  {
+    "sentence": "Nước rửa kính Sumo 800ml",
+    "label": 15
+  },
+  {
+    "sentence": "Dung dịch chuẩn pH 9.21 250ml/chai (Mettler)     PO: 20/01842 ",
+    "label": 8
+  },
+  {
+    "sentence": "Cá Ngừ Nautilus Sốt Nước Tương Nhật 165G",
+    "label": 22
+  },
+  {
+    "sentence": "Xúc Xích Cocktail Xông Khói CP Gói 250G",
+    "label": 20
+  },
+  {
+    "sentence": "Lốc 4 Sữa Lắc Trái Cây Nuvi Nhiệt Đới Hộp 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Bột Quế Vipep Hũ 35G",
+    "label": 12
+  },
+  {
+    "sentence": "Lốc 4 Thức Uống Vitadairy Vị Sữa Hộp 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Hộp 10 Trứng Vịt Ba Huân",
+    "label": 25
+  },
+  {
+    "sentence": "Bánh Que Mix Hương Vị Gà Cay Hàn Quốc 150G",
+    "label": 0
+  },
+  {
+    "sentence": "Nước Tương Chinsu Tỏi Ớt 250Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Băng Vệ Sinh Whisper Siêu Mỏng Cánh Ultra Clean 16 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "Xốt Tương Mè Kewpie 210Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Thu hộ phí ngân hàng từ 16-31.03.2021",
+    "label": 17
+  },
+  {
+    "sentence": "Sữa Bột Anlene Gold 3X Cà Phê Hộp 310G",
+    "label": 19
+  },
+  {
+    "sentence": "NLS SUNLIGHT 3.6KG",
+    "label": 15
+  },
+  {
+    "sentence": "Sữa Chua Uống Men Sống Betagen Hương Tự Nhiên Chai 400Ml",
+    "label": 20
+  },
+  {
+    "sentence": "Khăn Giấy Pulppy Supreme 80 Tờ",
+    "label": 15
+  },
+  {
+    "sentence": "Sữa Tắm On The Body Perfume White Pearl 500G",
+    "label": 3
+  },
+  {
+    "sentence": "Điều chỉnh tăng giá trị cà phê Robusta SC13-5.0%BB- .1.0%FM - 4C cho hóa đơn số PM/19E 0002501 ngày 10/11/21 ; PM/19E 0002529 ngày 15/11/21; PM/19E 0002745 ngày 06/12/21  theo biên bản thanh lý hợp đồng DF21000049",
+    "label": 16
+  },
+  {
+    "sentence": "Mũi taro combo thẳng M2x0.4 YH2 40.0L (T2829132)",
+    "label": 9
+  },
+  {
+    "sentence": "Hỗ trợ hàng không thể hoàn trả tháng 11/2021",
+    "label": 16
+  },
+  {
+    "sentence": "Sữa Tươi Tiệt Trùng Nutimilk 100 Điểm Có Đường 1L",
+    "label": 19
+  },
+  {
+    "sentence": "Sữa Tắm Gội Carrie Junior Double Milk 700G",
+    "label": 2
+  },
+  {
+    "sentence": "Băng Vệ Sinh Hàng Ngày Kotex Cool Siêu Mỏng 40 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "Ngũ Cốc Bakalland Muesli 5 Loại Trái Cây Sấy Và Mật Ong Gói 300G",
+    "label": 21
+  },
+  {
+    "sentence": "Lốc 4 Sữa Chua Uống Lif Kun Dâu 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Nước Giặt Moonway Hương Hoa Dịu Ngọt Chai 3.6L",
+    "label": 15
+  },
+  {
+    "sentence": "Mũi khoan L500 2.5",
+    "label": 9
+  },
+  {
+    "sentence": "Túi Zipper Emart Size L",
+    "label": 15
+  },
+  {
+    "sentence": "Sữa Đặc Có Đường Ngôi Sao Phương Nam Xanh Lá Hộp Giấy 1284G",
+    "label": 19
+  },
+  {
+    "sentence": "Túi Thơm Glade Hương Tươi Mát 8G",
+    "label": 15
+  },
+  {
+    "sentence": "Cà Chua Bi Socola DALATGAP 300G",
+    "label": 18
+  },
+  {
+    "sentence": "Táo Kiku Newzealand",
+    "label": 24
+  },
+  {
+    "sentence": "Snack Swing Maxx Vị Bò Nướng Tiêu Đen 108G",
+    "label": 0
+  },
+  {
+    "sentence": "Sữa Tắm Gội Toàn Thân Johnson's Baby 500Ml",
+    "label": 2
+  },
+  {
+    "sentence": "Lốc 4 Sữa Tươi Tiệt Trùng TH True Milk Hương Dâu Hộp Giấy 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Mũi taro L6868 M6x1.0R",
+    "label": 9
+  },
+  {
+    "sentence": "Udon xào hải sản",
+    "label": 22
+  },
+  {
+    "sentence": "Lốc 6 Viên Long Não Treo Hương Chanh Túi 200G",
+    "label": 15
+  },
+  {
+    "sentence": "Xoài Sấy Dẻo Vinamit 100G",
+    "label": 0
+  },
+  {
+    "sentence": "Nước Rửa Tay Lifebuoy Sữa Dưỡng Ẩm Túi 450G",
+    "label": 3
+  },
+  {
+    "sentence": "Đường Mía Vàng Biên Hòa Khoáng Chất 1Kg",
+    "label": 12
+  },
+  {
+    "sentence": "Mè Trắng PMT 100G",
+    "label": 13
+  },
+  {
+    "sentence": "R001223 Sơn (471-87333, 180L-V)",
+    "label": 9
+  },
+  {
+    "sentence": "Lốc 4 Sữa Chua Ăn TH True Yogurt Có Đường 100G",
+    "label": 20
+  },
+  {
+    "sentence": "Nước Mắm Liên Thành Nhãn Bạc 600Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Nước Tẩy Nhà Tắm Gift Siêu Sạch 900Ml",
+    "label": 15
+  },
+  {
+    "sentence": "Máy Làm Sạch Lông Philips BRT382",
+    "label": 28
+  },
+  {
+    "sentence": "Đồ Chơi Bắn Nước Toony Kids TN-063",
+    "label": 15
+  },
+  {
+    "sentence": "Hỗ trợ quản lý ngành hàng tháng 11/2021",
+    "label": 17
+  },
+  {
+    "sentence": "Sữa Rửa Mặt Biore Sạch Mụn & Kháng Khuẩn 50G",
+    "label": 4
+  },
+  {
+    "sentence": "Khẩu Trang Carbon Than Hoạt Tính 4 Lớp Dr.Mask 3D Bịch 3 Cái",
+    "label": 15
+  },
+  {
+    "sentence": "Socola Sữa Merci Finest Selection Hộp 250G",
+    "label": 0
+  },
+  {
+    "sentence": "Tương Đen Cholimex Pet Chai 230G",
+    "label": 12
+  },
+  {
+    "sentence": "Mì Ý Thịt Xông Khói Sốt Kem - Carbonara Spaghetti",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Tráng God Mama Gạo Huyết Rồng Hình Vuông 16Cm 270G",
+    "label": 22
+  },
+  {
+    "sentence": "Nước Ngọt Pepsi Cola Sleek Thùng 24 Lon 320Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Xương Ức Gà 3F 500G",
+    "label": 25
+  },
+  {
+    "sentence": "Khăn Cotton Be Organic Màu Xám 30*30Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Dầu Mè Ăn Dặm Cho Con Thuyền Xưa Chai 65Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Nước Dừa Tươi Cocofresh 330Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Xốt Mì Ý Bò Bằm Cholimex Gói 140G",
+    "label": 12
+  },
+  {
+    "sentence": "Bánh Ăn Sáng C'est Bon Vị Xúc Xích Nướng 5 Cái*17G",
+    "label": 0
+  },
+  {
+    "sentence": "Kem Đánh Răng Close Up Dừa & Than Hoạt Tính 230G",
+    "label": 5
+  },
+  {
+    "sentence": "Băng Vệ Sinh Diana Super Night 35Cm Gói 3 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "DÉP TRONG NHÀ 352",
+    "label": 15
+  },
+  {
+    "sentence": "(PO 1606056)",
+    "label": 7
+  },
+  {
+    "sentence": "Băng Vệ Sinh Kotex Khô Thoáng Siêu Mỏng Cánh 23Cm 16 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "Khăn Tắm Màu BK02 48*98Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Lốc 4 Sữa Chua Uống Men Sống Betagen Dâu 85Ml",
+    "label": 20
+  },
+  {
+    "sentence": "Set Bánh Croissant Phủ Sốt Bơ Tỏi",
+    "label": 0
+  },
+  {
+    "sentence": "Hỗ trợ trưng bày tháng 11/2021",
+    "label": 17
+  },
+  {
+    "sentence": "Nước Ép Trái Cây TH True Táo Đào Chai 350Ml",
+    "label": 29
+  },
+  {
+    "sentence": "LLG011-Tô trộn thủy tinh chịu nhiệt Lock & Lock Boroseal 500ml",
+    "label": 15
+  },
+  {
+    "sentence": "Tàu Hũ Trắng Ichiban Fujisan 300G",
+    "label": 18
+  },
+  {
+    "sentence": "Dầu Ăn Thượng Hạng Neptune Light 2L",
+    "label": 12
+  },
+  {
+    "sentence": "Tã quần Huggies Dry size XL 18 miếng",
+    "label": 2
+  },
+  {
+    "sentence": "Canh Rong Biển Đậu Hũ Asuzac Hộp 10Gói*4G",
+    "label": 22
+  },
+  {
+    "sentence": "Xăng E5 Ron 92-II",
+    "label": 14
+  },
+  {
+    "sentence": "Nước Giặt Comfort Dưỡng Vải Thanh Lịch Túi 3.6Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Bìa hồ sơ 40 lá Plus",
+    "label": 26
+  },
+  {
+    "sentence": "Dưa lưới TL3 Coop Select",
+    "label": 24
+  },
+  {
+    "sentence": "Dung Dịch Vệ Sinh Phụ Nữ Lactacyd Ngày Dài Tươi Mát 150Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Sữa Đậu Nành Nuti Nguyên Chất Hộp Giấy 1L",
+    "label": 19
+  },
+  {
+    "sentence": "Cá Saba Jumbo Na Uy Nguyên Con Không Làm Sẵn ~600G/Con (Kg)",
+    "label": 25
+  },
+  {
+    "sentence": "Mũi phay L6230 16.0",
+    "label": 9
+  },
+  {
+    "sentence": "Cơm Ăn Liền CJ Bibigo Vị Cay Hàn Quốc Cùng Xốt Kim Chi 160G",
+    "label": 22
+  },
+  {
+    "sentence": "Kẹp giấy đầu nhọn C62",
+    "label": 26
+  },
+  {
+    "sentence": "Bún Tươi Mekong River 3 Màu 300G",
+    "label": 22
+  },
+  {
+    "sentence": "Khẩu Trang Y Tế Trường Dương Gold Mask KF94 4 Màu Hộp 20 Cái",
+    "label": 15
+  },
+  {
+    "sentence": "Bánh Morning Hamburger",
+    "label": 0
+  },
+  {
+    "sentence": "Bánh Quy Walkers Bơ Giòn 150G",
+    "label": 0
+  },
+  {
+    "sentence": "Lăn Khử Mùi Nivea Serum Trắng Mịn 40Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Nước Rửa Chén Sunlight Thiên Nhiên Chai 750G",
+    "label": 15
+  },
+  {
+    "sentence": "Kem Ủ L'Oreal Total Repair 200Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Gia Vị Hoàn Chỉnh Cốt Phở Bò Quốc Việt 300G",
+    "label": 12
+  },
+  {
+    "sentence": "Cước vận chuyển Nội Bài - Hà Nội - Hải Phòng 2 ngày 18-19/03/2021",
+    "label": 10
+  },
+  {
+    "sentence": "Hành Lá Cao Nguyên 100G",
+    "label": 18
+  },
+  {
+    "sentence": "Lốc 30 Đũa Tre Spriing Dùng 1 Lần",
+    "label": 15
+  },
+  {
+    "sentence": "Chuối vàng Laha giống Philippin kg – Bảo Phương",
+    "label": 24
+  },
+  {
+    "sentence": "Cúp cao 280mm",
+    "label": 26
+  },
+  {
+    "sentence": "Sữa Tươi Tiệt Trùng TH True Milk Organic Nguyên Chất 500Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Nước Tẩy Trắng Javel Chai 550G",
+    "label": 15
+  },
+  {
+    "sentence": "Xà Bông Cục Camay Classic 125G",
+    "label": 3
+  },
+  {
+    "sentence": "Ổ CỨNG WD 1TB MY PASSPORT ULTRA (Xuất hóa đơn theo PO số: 1569242, ngày 13/1/2021 )",
+    "label": 28
+  },
+  {
+    "sentence": "R011396 Sơn (813-88620, 180L-V)",
+    "label": 9
+  },
+  {
+    "sentence": "Bánh Que Thái Dorkbua Đùi Gà Vị Cay Gói 115G",
+    "label": 0
+  },
+  {
+    "sentence": "Mì Xào Koreno Volcano Vị Gà Gói 118G",
+    "label": 22
+  },
+  {
+    "sentence": "SB Dielac Alpha Gold IQ 3 HT 900g",
+    "label": 19
+  },
+  {
+    "sentence": "Nước Mắm Chinsu Cá Cơm Biển Đông 720Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Thịt Viên Heo Cao Bồi Xốt Cà Hộp 200G",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Quy Atela Vị Mè Đen Hộp 150G",
+    "label": 0
+  },
+  {
+    "sentence": "Cá Ngừ Century Khúc Ngâm Sốt Gia Vị 180G",
+    "label": 22
+  },
+  {
+    "sentence": "Socola Kitkat 2F Gói 12 Thanh*17G",
+    "label": 0
+  },
+  {
+    "sentence": "Sữa Tắm Safeguard Hồng Hoa Nha Đam 720Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Bò cuộn phô mai",
+    "label": 22
+  },
+  {
+    "sentence": "Pomade Tạo Kiểu Tóc Xmen For Boss Medium Hold 60G",
+    "label": 6
+  },
+  {
+    "sentence": "Lốc 4 Sữa Tươi Tiệt Trùng Vinamilk 100% Dâu 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Táo Envy NewZealand hộp 3 trái",
+    "label": 24
+  },
+  {
+    "sentence": "Sơn mặt PE - PDXD110 JASPER XD110-4Q031 180Lbr/",
+    "label": 9
+  },
+  {
+    "sentence": "Lốc 3 Sữa Hạt Dẻ Cười Sunkist Nguyên Chất Hộp 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Dầu Xả Herbal Essences Bưởi & Bạc Hà 400Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Bánh nướng bạch tuộc (Original)",
+    "label": 0
+  },
+  {
+    "sentence": "Phở Bò Chinsu Gói 132G",
+    "label": 22
+  },
+  {
+    "sentence": "(POHN218704)",
+    "label": 7
+  },
+  {
+    "sentence": "Trứng Cút Phá Lấu Ăn Liền Vfood Túi 6 Trứng 50G",
+    "label": 25
+  },
+  {
+    "sentence": "Sữa Tắm Enchanteur Naturelle Iris 510G",
+    "label": 3
+  },
+  {
+    "sentence": "Bắp Mỹ Siêu Ngọt 2 Trái",
+    "label": 18
+  },
+  {
+    "sentence": "Xúc Xích Tươi Đông Nam Á Chipolata 200G",
+    "label": 20
+  },
+  {
+    "sentence": "Ớt Hiểm Đỏ Cao Nguyên Gói 50G",
+    "label": 18
+  },
+  {
+    "sentence": "Mực Viên Tâm Lợi Gói 200G",
+    "label": 23
+  },
+  {
+    "sentence": "Xốt Mayonnaise Kewpie 300G",
+    "label": 12
+  },
+  {
+    "sentence": "Kẹo Alpenliebe Hồng Trà Sữa 330G",
+    "label": 0
+  },
+  {
+    "sentence": "Bia Heineken Silver Coolpack Thùng 24 Lon 250Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Nho xanh không hạt Mỹ",
+    "label": 24
+  },
+  {
+    "sentence": "Phô Mai Vuông Con Bò Cười Belcube Vị Dâu 78G",
+    "label": 20
+  },
+  {
+    "sentence": "Hộp Thủy Tinh Chữ Nhật Inochi Nikko 1040Ml",
+    "label": 15
+  },
+  {
+    "sentence": "Sầu Riêng 6 Ri",
+    "label": 24
+  },
+  {
+    "sentence": "Quạt Sạc Comet CRF0904",
+    "label": 15
+  },
+  {
+    "sentence": "Ghế Xếp Lùn Duy Tân",
+    "label": 15
+  },
+  {
+    "sentence": "Bột Ăn Dặm Ridielac Gold Bò Rau Củ Hộp Giấy 200G",
+    "label": 2
+  },
+  {
+    "sentence": "Sáp Thơm Ami Citrus Hương Chanh 200G",
+    "label": 15
+  },
+  {
+    "sentence": "Khăn Ướt Mamamy Có Mùi Gói 30 Tờ",
+    "label": 15
+  },
+  {
+    "sentence": "Sữa Tắm Dove Tẩy Tế Bào Chết 530G",
+    "label": 3
+  },
+  {
+    "sentence": "Trà Xanh TH True Tea Vị Chanh Chai 350Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Băng Vệ Sinh Laurier Đêm Siêu An Toàn 8 Miếng*35Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Sushi tổng hợp A",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Quy Monesco Golden Nhân Phô Mai Hộp 360G",
+    "label": 0
+  },
+  {
+    "sentence": "Đồ Chơi Hotweels - Xe Hotweels Cơ Bản C4982",
+    "label": 15
+  },
+  {
+    "sentence": "Bưởi 5 roi B2 túi lưới trái – MekoStar",
+    "label": 24
+  },
+  {
+    "sentence": "Nước Giặt Bibo Care Baby Star Thiên Nhiên Bình 3Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Đậu Hòa Lan Wasabi Tài Tài 195G",
+    "label": 0
+  },
+  {
+    "sentence": "Bánh Gấu Koala's March Nhân Dâu 37G",
+    "label": 0
+  },
+  {
+    "sentence": "Túi Zipper Emart Size XL",
+    "label": 15
+  },
+  {
+    "sentence": "Kimbap Gà Khổng Lồ",
+    "label": 22
+  },
+  {
+    "sentence": "Nước Rửa Chén Sunlight Matcha Trà Nhật Túi 2.1Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Uống Sữa Trái Cây Nutifood Vị Cam Chai 300Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Tấm chắn giọt bắn Trường Dương",
+    "label": 27
+  },
+  {
+    "sentence": "Muối Ớt Xanh Tây Ninh Dh Foods Hũ 120G",
+    "label": 12
+  },
+  {
+    "sentence": "Lốc 6 Sữa Chua Uống Tiệt Trùng Vinamilk Susu Dâu Chai 80Ml",
+    "label": 19
+  },
+  {
+    "sentence": "IV. Phí khác (Other fee)",
+    "label": 17
+  },
+  {
+    "sentence": "8935278602514 - Chatter - Trò chuyện với chính mình",
+    "label": 26
+  },
+  {
+    "sentence": "Bánh 12 Loại Ngũ Cốc Rong Biển Crispy 180G",
+    "label": 0
+  },
+  {
+    "sentence": "Theo PO số GBP-8002939853",
+    "label": 7
+  },
+  {
+    "sentence": "Sữa Tắm Biore Guard Thanh Mát Hứng Khởi 800G",
+    "label": 3
+  },
+  {
+    "sentence": "Lốc 5 Mì Samyang Vị Gà Cay Gói 145G",
+    "label": 22
+  },
+  {
+    "sentence": "Đường Biên Hòa Organic Túi 400G",
+    "label": 12
+  },
+  {
+    "sentence": "Thanh giằng rod D12_L=6055_Gr 4.6_mạ kẽm nhúng nóng",
+    "label": 9
+  },
+  {
+    "sentence": "Ty ren M16x290_Gr 4.6_mạ kẽm nhúng nóng",
+    "label": 9
+  },
+  {
+    "sentence": "Sốt Ướp Thịt Hàn Quốc O'Food Vị Cay Hũ 240G",
+    "label": 12
+  },
+  {
+    "sentence": "Nước Hoa Hồng Simple 200Ml",
+    "label": 4
+  },
+  {
+    "sentence": "Sốt Ướp Thịt Hàn Quốc O'Food Truyền Thống Hũ 240G",
+    "label": 12
+  },
+  {
+    "sentence": "Bánh Quy Labay Kosa Dừa Hộp 135G",
+    "label": 0
+  },
+  {
+    "sentence": "Bột Giặt Net Hương Hoa Sứ 6Kg",
+    "label": 15
+  },
+  {
+    "sentence": "88982 EUC ProAcne SRM 400ml",
+    "label": 4
+  },
+  {
+    "sentence": "Mì Xào Táo Quân Thập Cẩm 85G",
+    "label": 22
+  },
+  {
+    "sentence": "Nước Trái Cây Thạch Dừa Mogu Vải 320Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Vá Soup Inox Cán Trơn 304",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Rửa Tay Aquala Hương Dâu 500Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Hỗ trợ nhập liệu tháng 10.2021",
+    "label": 17
+  },
+  {
+    "sentence": "Kẹo Cao Su Bạc Hà Mentos Fresh Action Hũ 56G",
+    "label": 0
+  },
+  {
+    "sentence": "Dầu Gội Rejoice Hương Hoa Mẫu Đơn 632Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Ucsan M258 Lô 2 khay đá",
+    "label": 15
+  },
+  {
+    "sentence": "CAMERA SD49225XA-HNR",
+    "label": 28
+  },
+  {
+    "sentence": "Kẹo Me Tamarin Gói 135G",
+    "label": 0
+  },
+  {
+    "sentence": "Kẹo Kopiko Coffee Túi 135G",
+    "label": 0
+  },
+  {
+    "sentence": "BỘ CHUYỂN MẠCH CISCO CBS110-8T ( XUẤT HÓA ĐƠN THEO PO SỐ: 1606255, 14/12/2021)",
+    "label": 28
+  },
+  {
+    "sentence": "Lá Hương Thảo Khô McCormick 18G",
+    "label": 12
+  },
+  {
+    "sentence": "Máy Đánh Trứng  Daewoo DWHM-354",
+    "label": 15
+  },
+  {
+    "sentence": "Viên Tinh Nghệ Mật Ong Sữa Chúa Honey Land Hũ 250G",
+    "label": 21
+  },
+  {
+    "sentence": "Nấm Mối Hộp 130G",
+    "label": 18
+  },
+  {
+    "sentence": "Ngũ Cốc Yến Mạch Sunrise Trái Cây Và Hạt Gói 300G",
+    "label": 21
+  },
+  {
+    "sentence": "Cà Phê Sữa Đá Napoli 3in1 Hộp 10Gói*22G",
+    "label": 29
+  },
+  {
+    "sentence": "Tiền thuê mặt bằng từ 01.03.2021 đến 31.03.2021 lô B1-S2",
+    "label": 17
+  },
+  {
+    "sentence": "Yến Mạch Red Tractor Cắt Lát Tròn 1Kg",
+    "label": 21
+  },
+  {
+    "sentence": "Tả quần Bobby size L 38 miếng",
+    "label": 2
+  },
+  {
+    "sentence": "Nước Ngọt Sprite Sleek 320Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Bánh Tráng God Mama Củ Nghệ Hình Vuông 16Cm 270G",
+    "label": 22
+  },
+  {
+    "sentence": "Vá Nhựa No Brand",
+    "label": 15
+  },
+  {
+    "sentence": "Bia Hoegaarden White Thùng 24 Lon 330Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Mặt Nạ Oliv Trắng Da Dầu Oliv & Việt Quất 20G",
+    "label": 4
+  },
+  {
+    "sentence": "Nước Tăng Lực V-Min Đa Vitamin Chai 150Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Cà Phê Nescafe 3in1 Xanh Rang Xay 17G*15",
+    "label": 29
+  },
+  {
+    "sentence": "Xoài Tứ Quý",
+    "label": 24
+  },
+  {
+    "sentence": "Bánh Pizza Manna Ngũ Vị Đặc Biệt 120G",
+    "label": 23
+  },
+  {
+    "sentence": "Kéo VP S0180/183",
+    "label": 15
+  },
+  {
+    "sentence": "Trà Oolong Đại Gia Hộp Bát Giác 100G",
+    "label": 29
+  },
+  {
+    "sentence": "Cải Ngồng Organic Happy Vegi Gói 250G",
+    "label": 18
+  },
+  {
+    "sentence": "Nước Gia Vị Cô Đặc Maggie Chai 350G",
+    "label": 12
+  },
+  {
+    "sentence": "Dưa lưới vàng ruột xanh Coop Select kg",
+    "label": 24
+  },
+  {
+    "sentence": "Xúc Xích G Phô Mai 200G",
+    "label": 20
+  },
+  {
+    "sentence": "Bánh Bông Lan Shang Tian Đài Loan Vị Dứa 470G",
+    "label": 0
+  },
+  {
+    "sentence": "Xịt Khử Mùi Nivea Serum Dưỡng Trắng Hồng Hokkaido 150Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Sữa Rửa Mặt St.Ives Trà Xanh 170G",
+    "label": 4
+  },
+  {
+    "sentence": "Lốc 4 Sữa Dinh Dưỡng Tiệt Trùng Vinamilk ADM Gold Hương Socola 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Sữa Tắm Dưỡng Ẩm Cetaphil Baby 230Ml",
+    "label": 2
+  },
+  {
+    "sentence": "Thanh nhãn Coop Select 500g",
+    "label": 24
+  },
+  {
+    "sentence": "Nước Mắm Ăn Liền Cholimex 290Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Mì Ottogi Jin Tôm & Mực Gói 120G",
+    "label": 22
+  },
+  {
+    "sentence": "SOARES",
+    "label": 27
+  },
+  {
+    "sentence": "Bột Ngọt Bio Miwon 800G",
+    "label": 12
+  },
+  {
+    "sentence": "Giấy Vệ Sinh Đa Năng Let Green 180 Tờ",
+    "label": 15
+  },
+  {
+    "sentence": "GIÁ ĐỠ MÁY TÍNH BẢNG CHÂN ĐỨNG ĐA NĂNG/SKU: SRFSL-03(Xuất hóa đơn theo PO số: 1598975, ngày 15/10/2021)",
+    "label": 28
+  },
+  {
+    "sentence": "Máy Xay Sinh Tố Tefal Blendeo + BL2C0130 1.25L",
+    "label": 15
+  },
+  {
+    "sentence": "Nui Xoắn Hữu Cơ Sottolestelle 500G",
+    "label": 22
+  },
+  {
+    "sentence": "Khoai Sọ Gọt Vỏ Senta 400G",
+    "label": 18
+  },
+  {
+    "sentence": "Chảo Chống Dính Siêu Bền Đá Sunhouse SBD28 28Cm",
+    "label": 15
+  },
+  {
+    "sentence": "NIDAL capsule/H3V/V10 viên; NSX: VN\nThùng 110H/H3V/V10 viên",
+    "label": 27
+  },
+  {
+    "sentence": "Hộp 30 Trứng Cút Ba Huân",
+    "label": 25
+  },
+  {
+    "sentence": "Bánh Choco Pie Hộp 20 Gói*33G",
+    "label": 0
+  },
+  {
+    "sentence": "Phí dịch vụ giao hàng tận nơi",
+    "label": 17
+  },
+  {
+    "sentence": "BỘ CHIA HUB 4 CỔNG UGREEN-20290 ( xuất hóa đơn theo po số: 1576993, ngày 25/03/2021 )",
+    "label": 28
+  },
+  {
+    "sentence": "Chả Giò Chay Vissan Gói 500G",
+    "label": 23
+  },
+  {
+    "sentence": "Nón Bảo Hiểm CT33 Emart",
+    "label": 15
+  },
+  {
+    "sentence": "Dầu Gội Clear Mát Lạnh Bạc Hà 630G",
+    "label": 6
+  },
+  {
+    "sentence": "Bánh Tráng Mekong River 3 Màu 22Cm 300G",
+    "label": 22
+  },
+  {
+    "sentence": "Sữa Chua Uống Tiệt Trùng Lif Kun Kem Dâu Túi 110Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Máy Xay Sinh Tố Tefal Blendeo + BL2C1166 1.25L",
+    "label": 15
+  },
+  {
+    "sentence": "Sốt Mì Ý Cà Chua Thịt Bolognese 425G",
+    "label": 12
+  },
+  {
+    "sentence": "Ổi Đài Loan ruột đỏ",
+    "label": 24
+  },
+  {
+    "sentence": "Dầu Xả Extra Care 8 Precious Oil 400Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Nước Trái Cây Lên Men Vola Vị Mulberry & Blueberry 275Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Bánh Gạo One One Gold Phô Mai Ngô 118G",
+    "label": 0
+  },
+  {
+    "sentence": "Mì Ly 3 Miền Gold Tôm Chua Cay 65G",
+    "label": 22
+  },
+  {
+    "sentence": "Thanh Long ruột đỏ",
+    "label": 24
+  },
+  {
+    "sentence": "Dưa Lưới Tròn Xanh Giống Thái Ruột Cam 1 Trái ~1.2Kg",
+    "label": 24
+  },
+  {
+    "sentence": "Bột Ngũ Cốc Calsome Sô Cô La 20 Gói*25G",
+    "label": 21
+  },
+  {
+    "sentence": "Mì Trứng Thượng Hạng Safoco 400G",
+    "label": 22
+  },
+  {
+    "sentence": "Dầu Gội L'Oreal Chiết Xuất Tinh Dầu Hoa Chai 650Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Lạp Xưởng Tươi Chen 300G",
+    "label": 25
+  },
+  {
+    "sentence": "Nấm Hương Hộp 150G",
+    "label": 18
+  },
+  {
+    "sentence": "Công nợ in ấn chương trình  NEW ARRIVALS THÁNG 1. Xuất theo bảng kê đính kèm",
+    "label": 1
+  },
+  {
+    "sentence": "Khăn Màu Border 50*98Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Xốt Mì Ý Cà Chua Cholimex Gói 140G",
+    "label": 12
+  },
+  {
+    "sentence": "Lốc 4 Váng Sữa Zott Monte Vị Vani 55G",
+    "label": 20
+  },
+  {
+    "sentence": "Lốc 4 Sữa Trái Cây Vinamilk Hero Hương Kẹo Nho Hộp 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Sữa Tắm Purite By Provence Hoa Mẫu Đơn Chai 850Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Xịt Côn Trùng Jumbo Vape Hoa Lài 600Ml",
+    "label": 15
+  },
+  {
+    "sentence": "Lô 3 Mút Lưới Rửa Chén",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Ép Cam Twister 455Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Lốc 3 Sữa Tươi Tiệt Trùng Avonmore Ít Béo 200Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Đồ Chơi Bắn Bóng Vào Rổ Toony Kids TN046",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Xả Vải Comfort 1 Lần Xả Hương Ban Mai Túi 2.8L",
+    "label": 15
+  },
+  {
+    "sentence": "Kem Đánh Răng Reach Fluoride Fresh Mint 120G",
+    "label": 5
+  },
+  {
+    "sentence": "lẩu gà lá giang",
+    "label": 22
+  },
+  {
+    "sentence": "Nước Trái Cây Jele Thạch Hương Chanh 150G",
+    "label": 29
+  },
+  {
+    "sentence": "Bộ 2 Hộp Cơm Thủy Tinh Chia Ngăn Glasslock 670Ml + 400Ml",
+    "label": 15
+  },
+  {
+    "sentence": "DÉP HÀI 291",
+    "label": 15
+  },
+  {
+    "sentence": "Sữa Tắm Olay Hương Hoa Lan & Quả Lý 650Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Nho đen không hạt ngón tay Úc kg",
+    "label": 24
+  },
+  {
+    "sentence": "Vợt Muỗi + Bẫy Muỗi 2 Trong 1 SC-MS1947",
+    "label": 15
+  },
+  {
+    "sentence": "Gà Chip 99 Gói 500G",
+    "label": 23
+  },
+  {
+    "sentence": "Bọt Tắm Sense Plus Mềm Mịn 380G",
+    "label": 4
+  },
+  {
+    "sentence": "Sữa Chống Nắng Dịu Nhẹ Cho Da Nhạy Cảm Anessa Perfect UV Mild 60Ml",
+    "label": 4
+  },
+  {
+    "sentence": "Dầu Gội Pantene Smooth & Sleek 750Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Thạch Rau Câu New Choice Hương Trái Cây 1Kg",
+    "label": 0
+  },
+  {
+    "sentence": "R009251 Sơn (1411-87531VN, 180L-V)",
+    "label": 9
+  },
+  {
+    "sentence": "Điện sử dụng T03.2021",
+    "label": 17
+  },
+  {
+    "sentence": "8934804037769 - Quà tặng-Sữa chua uống dinh dưỡng Nestle Yogu tổ yến 85ml",
+    "label": 1
+  },
+  {
+    "sentence": "Yến Mạch Red Tractor Lát Tròn Hũ 400G",
+    "label": 21
+  },
+  {
+    "sentence": "Bánh Kiều Mạch Lestello 110G",
+    "label": 0
+  },
+  {
+    "sentence": "Lốc 4 Sữa Đậu Nành Vinamilk Hạnh Nhân 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Dầu Gội Palmolive Naturals Dưỡng Ẩm Bổ Sung 600Ml",
+    "label": 6
+  },
+  {
+    "sentence": "MỰC IN XEROX CT201592",
+    "label": 26
+  },
+  {
+    "sentence": "Tăm bông Baby lõi giấy Hana 200 cây",
+    "label": 2
+  },
+  {
+    "sentence": "Bánh Quy Lexus Kẹp Kem Socola 95G",
+    "label": 0
+  },
+  {
+    "sentence": "Ngũ Cốc Godent Ý Dĩ Khoai Lang Tím 125G",
+    "label": 21
+  },
+  {
+    "sentence": "Dầu Mè Tường An 0.4L",
+    "label": 12
+  },
+  {
+    "sentence": "Khẩu Trang Unicharm 3D Ngăn Khói Bụi Size M Bịch 5 Cái",
+    "label": 15
+  },
+  {
+    "sentence": "Trà Sữa Mr.Brown Lon 330Ml",
+    "label": 29
+  },
+  {
+    "sentence": "PHÍCH CẮM DI ĐỘNG 125A 5P 400V,6H, IP67 F045-6 (XUẤT HÓA ĐƠN THEO PO SỐ: 1587477, 24/6/2021)",
+    "label": 28
+  },
+  {
+    "sentence": "Kẹo Dẻo Want Want Vị Cam Gói 70G",
+    "label": 0
+  },
+  {
+    "sentence": "Lốc 4 Sữa Chua Ăn Vinamilk Cốm 100G",
+    "label": 20
+  },
+  {
+    "sentence": "Trà Sữa Nestea Hộp 8 Gói*20G",
+    "label": 29
+  },
+  {
+    "sentence": "Lốc 4 Sữa Đậu Nành Tươi Vinamilk Hộp 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Cà Tím 2 Trái PT Farm",
+    "label": 18
+  },
+  {
+    "sentence": "Mì Hảo Hảo Vị Mì Gà Vàng Gói 74G",
+    "label": 22
+  },
+  {
+    "sentence": "Lốc 6 Lon Nước Trái Cây Lên Men Strongbow Gold Apple 330Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Bánh Phở Tươi Kiều Trang Gói 500G",
+    "label": 22
+  },
+  {
+    "sentence": "Nho đen không hạt Nam Phi",
+    "label": 24
+  },
+  {
+    "sentence": "Cháo Tươi SG Food Baby Gà Cà Rốt 240G",
+    "label": 22
+  },
+  {
+    "sentence": "Ba Rọi Heo Rút Sườn 700G",
+    "label": 25
+  },
+  {
+    "sentence": "Trà Lipton Chamomile 1G*25 Gói",
+    "label": 29
+  },
+  {
+    "sentence": "Bắp Mỹ",
+    "label": 24
+  },
+  {
+    "sentence": "Mực chiên một nắng",
+    "label": 25
+  },
+  {
+    "sentence": "Lô 5 Mì Sa Tế Giấy Vị Hương 70G",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Xếp La Cusina Hải Sản Rau Củ Gói 175G",
+    "label": 23
+  },
+  {
+    "sentence": "Sữa Rửa Mặt Dạng Bọt Dove Serum Da Nhạy Cảm 160Ml",
+    "label": 4
+  },
+  {
+    "sentence": "Bột Gạo Tài Ký Gói 400G",
+    "label": 12
+  },
+  {
+    "sentence": "Bắp Non 200G",
+    "label": 18
+  },
+  {
+    "sentence": "Kẹo Dẻo Zoo Áo Đường Túi 500G",
+    "label": 0
+  },
+  {
+    "sentence": "Bún Tươi Pure CJ Cầu Tre 150G",
+    "label": 22
+  },
+  {
+    "sentence": "Nước Mắm Cá Cơm Phú Quốc Hương Xưa 15N 750Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Nước Rửa Chén Net Trà Xanh Diệt Khuẩn 4Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Lốc 4 Sữa Đậu Nành Soy Secretz Collagen Hộp Giấy 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Dầu Gội L'Oreal Chiết Xuất Tinh Dầu Hoa Chai 330Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Dung Dịch Vệ Sinh Phụ Nữ Felce Azzurra Dưỡng Da 250Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Quýt đường loại 2 – kg",
+    "label": 24
+  },
+  {
+    "sentence": "Dầu Gội Organist Anh Đào Dưỡng Ẩm 500Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Nấm Mỡ Trắng Yoshimoto 200G",
+    "label": 18
+  },
+  {
+    "sentence": "Lê Hàn Quốc hộp 3 trái",
+    "label": 24
+  },
+  {
+    "sentence": "Thuốc Nhuộm Phủ Bạc Reen Màu Nâu Sậm 90G",
+    "label": 6
+  },
+  {
+    "sentence": "Thau Inox 304 Super Chef SC_DB3121 21CM",
+    "label": 15
+  },
+  {
+    "sentence": "Hạt Nêm Neptune 4IN1 Vị Heo 380G",
+    "label": 12
+  },
+  {
+    "sentence": "Thịt Bò Cắt Khối Lúc Lắc Pacow 250G",
+    "label": 25
+  },
+  {
+    "sentence": "Lốc 4 Sữa Lắc Trái Cây Nuvi Cam Hộp 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Kiwi vàng NewZealand Organic hộp 3 trái",
+    "label": 24
+  },
+  {
+    "sentence": "Kẹo Socola M&M's Milk 90G",
+    "label": 0
+  },
+  {
+    "sentence": "Cà Phê Aikcheong 4IN1 Hạt Phỉ 600G",
+    "label": 29
+  },
+  {
+    "sentence": "Bánh Muffin Nho Khô Hộp 3*60G",
+    "label": 0
+  },
+  {
+    "sentence": "Bulong neo U16x190_Gr 4.6_mạ kẽm nhúng nóng",
+    "label": 9
+  },
+  {
+    "sentence": "Bột Ngọt Vedan 400G",
+    "label": 12
+  },
+  {
+    "sentence": "Sữa Tắm Johnson's Baby Chứa Sữa & Yến Mạch 1L",
+    "label": 2
+  },
+  {
+    "sentence": "Nước Lau Sàn Hữu Cơ Moonway Tinh Dầu Quế 1.85L",
+    "label": 15
+  },
+  {
+    "sentence": "Cháo Tươi SG Food Cá Lóc Cải Bó Xôi 270G",
+    "label": 22
+  },
+  {
+    "sentence": "Xốt Mayonnaise Kewpie 1/2 Béo 300G",
+    "label": 12
+  },
+  {
+    "sentence": "Hạt Nêm Miwon Từ Thịt 400G",
+    "label": 12
+  },
+  {
+    "sentence": "Thanh giằng rod D12_L=6950_Gr 4.6_mạ kẽm nhúng nóng",
+    "label": 9
+  },
+  {
+    "sentence": "Bộ Quánh Vuông Đáy Từ Chống Dính Và Rổ Inox Super Chef SC_G2024S 24*24Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Giặt Ariel Downy Túi 3.2Kg",
+    "label": 15
+  },
+  {
+    "sentence": "MÁY BỘ ĐÀM MOTOROLA XIR P3688 UHF( XUẤT HÓA ĐƠN THEO PO SỐ: 1608327, 29/12/2021)",
+    "label": 28
+  },
+  {
+    "sentence": "Nước Rửa Chén Sạch Trà Xanh 4Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Bàn Chải Đánh Răng Colgate 360 Charcoal Sprical",
+    "label": 5
+  },
+  {
+    "sentence": "Tã quần Huggies Dry size L 68 miếng",
+    "label": 2
+  },
+  {
+    "sentence": "Kẹo Socola Snickers Funsize Gói 240G",
+    "label": 0
+  },
+  {
+    "sentence": "Lốc 4 Sữa Chua Uống Men Sống Betagen Light 85Ml",
+    "label": 20
+  },
+  {
+    "sentence": "Lốc 4 Thức Uống Ca Cao Lúa Mạch Lovi 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "MÀN HÌNH LCD HP 24F",
+    "label": 28
+  },
+  {
+    "sentence": "Bơ 034 kg",
+    "label": 24
+  },
+  {
+    "sentence": "Cam Ai Cập",
+    "label": 24
+  },
+  {
+    "sentence": "Sữa tắm gội baby Pigeon hoa hướng dương 700ml",
+    "label": 2
+  },
+  {
+    "sentence": "Cốc giấy 7oz (206ml)/20 Cái",
+    "label": 15
+  },
+  {
+    "sentence": "Máy Xay Thịt Osaka MC909 1.5L",
+    "label": 15
+  },
+  {
+    "sentence": "Hạt Nêm Knorr Thịt Thăn Xương Ống Và Tủy 1.8Kg",
+    "label": 12
+  },
+  {
+    "sentence": "Giấy Vệ Sinh Tempo Neutral 10 Cuộn",
+    "label": 15
+  },
+  {
+    "sentence": "Túi HDPE / 40*490*876",
+    "label": 15
+  },
+  {
+    "sentence": "Băng Vệ Sinh Diana Mama Gói 12 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "BỘ BÀN PHIM CHUỘT KHÔNG DÂY DELL KM636  (XUẤT HÓA ĐƠN THEO PO SỐ: 1585028, 2/6/2021)",
+    "label": 28
+  },
+  {
+    "sentence": "Mì Ly Modern Thịt Xào 65G",
+    "label": 22
+  },
+  {
+    "sentence": "Snack Rong Biển Kimmy Truyền Thống Gói 6G",
+    "label": 0
+  },
+  {
+    "sentence": "Nui Ống Lớn Safoco 200G",
+    "label": 22
+  },
+  {
+    "sentence": "Bia Saigon Special 330Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Bánh Khoai Tây Nướng Tok Vị Phô Mai 154G",
+    "label": 0
+  },
+  {
+    "sentence": "Dầu Xả Pantene Micellar Tảo Biển 300ML",
+    "label": 6
+  },
+  {
+    "sentence": "Ăn uống",
+    "label": 17
+  },
+  {
+    "sentence": "Hộp Bánh Flan Nướng",
+    "label": 0
+  },
+  {
+    "sentence": "Máy tính Casio MX12B - BK",
+    "label": 26
+  },
+  {
+    "sentence": "(PO 1604129, PO 1604130)",
+    "label": 7
+  },
+  {
+    "sentence": "Bàn Xếp Vuông 40*60Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Rượu vang 1918 Classic Cabernet Sauvignon",
+    "label": 29
+  },
+  {
+    "sentence": "Nước Tẩy Toilet Lix Đậm Đặc 1Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Mật Ong Hoa Cà Phê Bonie Bee 380G",
+    "label": 21
+  },
+  {
+    "sentence": "Cánh Gà Ba Huân 500G",
+    "label": 25
+  },
+  {
+    "sentence": "Nồi Nấu Đa Năng Kèm Xửng Mishio MK-271 1.5L",
+    "label": 15
+  },
+  {
+    "sentence": "Dịch vụ giữ xe tháng 11/2021 theo HĐ số 01/P15-Q8 ngày 29/12/2020",
+    "label": 10
+  },
+  {
+    "sentence": "Xịt Khử Mùi Nam Adidas Team Five 150Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Snack Swing Vị Gà Teriyaki Osaka 63G",
+    "label": 0
+  },
+  {
+    "sentence": "Bếp Điện Quang Cảm Ứng Osaka IFC 22TB",
+    "label": 15
+  },
+  {
+    "sentence": "Phô Mai Vuông Con Bò Cười Belcube Vị Sữa 78G",
+    "label": 20
+  },
+  {
+    "sentence": "Bánh Bơ Trứng Richy Túi 180G",
+    "label": 0
+  },
+  {
+    "sentence": "Kem trà xanh",
+    "label": 23
+  },
+  {
+    "sentence": "Bột Bánh Xèo Meizan Gói 400G",
+    "label": 12
+  },
+  {
+    "sentence": "Mì Siukay Acecook Gà Cay Phô Mai 129G",
+    "label": 22
+  },
+  {
+    "sentence": "Bộ Vòi Xịt Rửa Xe Hando Kèm Dây 10M",
+    "label": 15
+  },
+  {
+    "sentence": "Dầu Season Tường An 1.8L",
+    "label": 12
+  },
+  {
+    "sentence": "Bánh Socola Pie Cadbury Oreo Hộp 360G",
+    "label": 0
+  },
+  {
+    "sentence": "Táo Rockit ống 4 trái",
+    "label": 24
+  },
+  {
+    "sentence": "Nước Mắm Chay Liên Thành 500Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Lốc 4 Sữa Dinh Dưỡng Tiệt Trùng Vinamilk ADM Gold Hương Dâu 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Thạch Rau Câu New Choice Hương Dừa 1Kg",
+    "label": 0
+  },
+  {
+    "sentence": "Bánh Gạo One One Hương Vị Tôm 150G",
+    "label": 0
+  },
+  {
+    "sentence": "Cà Chua Cherry Vàng PT Farm 300G",
+    "label": 18
+  },
+  {
+    "sentence": "Bánh Quy Cà Phê Braka 150G",
+    "label": 0
+  },
+  {
+    "sentence": "Xà bông cục Lifebouy",
+    "label": 3
+  },
+  {
+    "sentence": "Dầu Olive Extra Virgin Olivoila 750Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Chả Cá Viên Cá Thát Lát Và Tôm Hapi Khay 200G",
+    "label": 25
+  },
+  {
+    "sentence": "Nui Ống Lớn Safoco 400G",
+    "label": 22
+  },
+  {
+    "sentence": "Dầu Gội Clear Men Sạch Sâu Chai 630G",
+    "label": 6
+  },
+  {
+    "sentence": "Bình Đun Siêu Tốc Sunhouse Happy Time 1088 1.8L",
+    "label": 15
+  },
+  {
+    "sentence": "Tắm Gội Em Bé Bub&Mum Khuynh Diệp 500Ml",
+    "label": 2
+  },
+  {
+    "sentence": "Chả Lụa Bì G Ớt Xiêm Xanh 500G",
+    "label": 20
+  },
+  {
+    "sentence": "Lạp Xưởng Gà Unitek Gói 500G",
+    "label": 22
+  },
+  {
+    "sentence": "Gà Ác Tiềm Đông Trùng Hạ Thảo Cây Thị 380G",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Quy Giòn Roma Malkist Phô Mai 165G",
+    "label": 0
+  },
+  {
+    "sentence": "Dầu Olive Extra Castello 250Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Mì Koreno 3 Phút Kimchi Gói 75G",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Xốp Nabati Chocolate Hộp Giấy 340G",
+    "label": 0
+  },
+  {
+    "sentence": "Nồi Cơm Điện Nắp Gài Sunhouse SHD8606 1.8L",
+    "label": 15
+  },
+  {
+    "sentence": "Lưu kho hàng nguy hiểm từ 1 -> 4  ngày - TCLU6432144 - SIMSE2111004",
+    "label": 10
+  },
+  {
+    "sentence": "Nước Tăng Lực Warrior Dâu Lon 325Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Kiwi xanh NewZealand hộp 4 trái",
+    "label": 24
+  },
+  {
+    "sentence": "Bắp chiên bơ",
+    "label": 0
+  },
+  {
+    "sentence": "Sụn Gà Lá Chanh S&L",
+    "label": 22
+  },
+  {
+    "sentence": "Sữa Tắm Gội & Rửa Mặt Men's Biore One Hương Nước Hoa 480Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Đầu mực xào bơ",
+    "label": 22
+  },
+  {
+    "sentence": "Hoa Cúc Rossi Bó Nhiều Màu",
+    "label": 15
+  },
+  {
+    "sentence": "Khoai tây đông lạnh sợi nhỏ potato chips 1kg- Lutosa",
+    "label": 22
+  },
+  {
+    "sentence": "Nước Ion Kiềm Fujiwa Chai 680Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Mì Ly Nissin Vị Cua Sốt Cay 71G",
+    "label": 22
+  },
+  {
+    "sentence": "MÁY TÍNH ĐỂ BÀN HP PRO ONE 600G6 22 INCH FHD ALL-IN-ONE BUSINESS PC: I310100,WINDOWS 10 PRO 64; 8GB DDR42666,128GB 2280 PCIE,HP USB WIRED KEYBOARD,SD 3 MEDIA CARD READER,INTEL WI - FI 6 AX201+BLUETOOTH 5,HP PRO ONE G6 AIO TOUCH COUNTRY KIT_8WM68AV( Xuất hóa đơn theo PO số: 1598975, ngày 15/10/2021)",
+    "label": 28
+  },
+  {
+    "sentence": "Kẹo Playmore Vị Dưa Hấu Hũ 22G",
+    "label": 0
+  },
+  {
+    "sentence": "Sườn Non Chay Lúa Mạch An Nhiên 150G",
+    "label": 20
+  },
+  {
+    "sentence": "Rổ Inox Super Chef 2 Quai SC_PHB0220 19.5Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Tấm Thơm 1Kg",
+    "label": 13
+  },
+  {
+    "sentence": "Gà Viên Ngon Ngon 500G",
+    "label": 23
+  },
+  {
+    "sentence": "Bánh Tráng Chả Giò CJ Cầu Tre 19Cm Gói 280G",
+    "label": 22
+  },
+  {
+    "sentence": "Cà Phê Hạt Moka Copen 500G",
+    "label": 29
+  },
+  {
+    "sentence": "Bánh Que MIX Hương Vị Ớt Cay Gói 60G",
+    "label": 0
+  },
+  {
+    "sentence": "Tăm Bông Misu Hộp Tròn Người Lớn 200 Cây",
+    "label": 15
+  },
+  {
+    "sentence": "Sốt Chanh Ớt Đặc Biệt Doxaco 250G",
+    "label": 12
+  },
+  {
+    "sentence": "Thau Inox 304 Super Chef SC_DB3118 18CM",
+    "label": 15
+  },
+  {
+    "sentence": "Cốt Lết Heo Thảo Mộc Đóng Vỉ (Kg)",
+    "label": 25
+  },
+  {
+    "sentence": "Bột Ngũ Cốc Ăn Kiêng Việt Đài Bịch 600G",
+    "label": 21
+  },
+  {
+    "sentence": "Pate Cá Hồi Xốt Phô Mai Kem Hạ Long Hộp 150G",
+    "label": 22
+  },
+  {
+    "sentence": "Tấm áp phích (Poster 1)",
+    "label": 26
+  },
+  {
+    "sentence": "Snack Khoai Tây Lay's Stax Vị Kem Chua Hành Hộp 160G",
+    "label": 0
+  },
+  {
+    "sentence": "POSTINOR - 1 1.5MG",
+    "label": 27
+  },
+  {
+    "sentence": "Cá Trứng Mắm Me",
+    "label": 22
+  },
+  {
+    "sentence": "Nước Ngọt Coca Cola Plus Lon 320Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Kẹo Trái Cây The Jelly Bean Fruit Cocktail Hũ 100G",
+    "label": 0
+  },
+  {
+    "sentence": "Bình Nước Lock&Lock HAP817MIT 1.4L - Xanh Mint",
+    "label": 15
+  },
+  {
+    "sentence": "Snack Rong Biển Kimmy Bơ Sữa Gói 6G",
+    "label": 0
+  },
+  {
+    "sentence": "Cà Phê Mr Brown 240Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Socola Đen Vintz Nhân Kem Dưa Lưới Hộp 180G",
+    "label": 0
+  },
+  {
+    "sentence": "Mặt Nạ Matrix Le'cos Trái Cây & Sữa Tươi",
+    "label": 4
+  },
+  {
+    "sentence": "Hủ Tiếu Nhịp Sống Vị Sườn Heo Gói 70G",
+    "label": 22
+  },
+  {
+    "sentence": "Lốc 3 Sữa Tươi Tiệt Trùng Meadow Fresh Nguyên Kem 200Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Nước Rửa Chén True Care Chanh 750G",
+    "label": 15
+  },
+  {
+    "sentence": "Khăn Ướt Max Cool Nắp Decal Không Hương 80 Tờ",
+    "label": 15
+  },
+  {
+    "sentence": "Lăn Khử Mùi Xmen Fire 50Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Chất chuẩn đo ORP \nHI7022L, 500ml/chai (Hanna)\nPO: 21/01623",
+    "label": 8
+  },
+  {
+    "sentence": "Sữa Tắm Felce Azzurra Hoa Anh Đào 650Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Bột Ngũ Cốc Calsome Vani 20 Gói*25G",
+    "label": 21
+  },
+  {
+    "sentence": "Giấy Lụa Rút Tre Elene 100 Tờ 3 Lớp",
+    "label": 15
+  },
+  {
+    "sentence": "Ngũ Cốc Yến Mạch Oatta Trái Cây 800G",
+    "label": 21
+  },
+  {
+    "sentence": "Bánh Quy Giòn Gery Phô Mai Gói 100G",
+    "label": 0
+  },
+  {
+    "sentence": "Băng Vệ Sinh Diana Siêu Thấm Có Cánh 8 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "Sữa Tắm Aquala Body Lux 1.2L",
+    "label": 3
+  },
+  {
+    "sentence": "Đậu Phộng Da Cá Tân Tân Gói 265G",
+    "label": 0
+  },
+  {
+    "sentence": "Sữa Tắm Gội Em Bé Soft Bunny Cam 500Ml",
+    "label": 2
+  },
+  {
+    "sentence": "Bình Đun Siêu Tốc Toshiba 1.7L KT-17SH2NV",
+    "label": 15
+  },
+  {
+    "sentence": "Băng Vệ Sinh Kotex Tampon Regular Hộp 16 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "Bánh Bông Lan Solite Phủ Socola Vị Bơ Sữa 120G",
+    "label": 0
+  },
+  {
+    "sentence": "Bánh Cosy Yến Mạch Gấp Đôi Socola Hộp Giấy 224G",
+    "label": 0
+  },
+  {
+    "sentence": "Mũi taro L6868 M3x0.5R",
+    "label": 9
+  },
+  {
+    "sentence": "Mũi khoan L500 4.1",
+    "label": 9
+  },
+  {
+    "sentence": "Xử lý mối",
+    "label": 17
+  },
+  {
+    "sentence": "Hóa chất Hydrochloric Acid 6mol/L (6N)  110164, 1lít/chai (Merck) ",
+    "label": 8
+  },
+  {
+    "sentence": "Mì Ottogi Jin Rong Biển Gói 120G",
+    "label": 22
+  },
+  {
+    "sentence": "Đĩa giấy 19cm",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Ngọt Mirinda Vị Soda Kem Chai 1.5L",
+    "label": 29
+  },
+  {
+    "sentence": "Mì Goreng Rendang Bò Cay Gói 91G",
+    "label": 22
+  },
+  {
+    "sentence": "Tấm chắn giọt bắn Trường Dương (Trẻ em)",
+    "label": 27
+  },
+  {
+    "sentence": "Bông Lan Cuộn Nho Khô",
+    "label": 0
+  },
+  {
+    "sentence": "Dao Bếp Tramontina Carbon 23Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Thuốc Nhuộm L’oreal #3 Nâu Đen Tự Nhiên 172Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Nôi dung : vệ sinh công nghiệp văn phòng dc : Lô Q3E đường số 6 KCN Long Hậu, ấp 3 xã Long Hậu  huyện Cần Giuộc, Tỉnh Long An",
+    "label": 17
+  },
+  {
+    "sentence": "Chả Ram Bắp Con Tôm La Cusina 400G",
+    "label": 23
+  },
+  {
+    "sentence": "Cà Phê King 3IN1 Hộp 20 Gói*16G",
+    "label": 29
+  },
+  {
+    "sentence": "Gạo Thiên Kim Tây Đô Vinh Phát 5Kg",
+    "label": 13
+  },
+  {
+    "sentence": "Táo Fuji New Zealand",
+    "label": 24
+  },
+  {
+    "sentence": "Cải Thìa Organic Food King 300G",
+    "label": 18
+  },
+  {
+    "sentence": "Sữa Tươi Tiệt Trùng Nutimilk 100 Điểm Ít Đường Bịch 220Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Khăn Tay Emart Love You 28*42Cm Xanh Dương",
+    "label": 15
+  },
+  {
+    "sentence": "Khô Gà Sấy Tỏi Ớt Doxaco 400G",
+    "label": 22
+  },
+  {
+    "sentence": "Lô 3 Khăn Giấy Rút Posy Cao Cấp Gói 200 Tờ*2 Lớp",
+    "label": 15
+  },
+  {
+    "sentence": "Dừa Dứa",
+    "label": 22
+  },
+  {
+    "sentence": "Bia Larue Xanh 330Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Giá Đậu Xanh Rau Cười Việt Nhật 300G",
+    "label": 18
+  },
+  {
+    "sentence": "Nước Giặt Ariel Sạch Nhanh Túi 3.5Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Bánh Hỏi Tươi Kiều Trang Gói 500G",
+    "label": 22
+  },
+  {
+    "sentence": "Súp nấm và đậu hủ",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Quế Cosy Socola 132G",
+    "label": 0
+  },
+  {
+    "sentence": "Mì Xào Táo Quân Thịt Bằm Sốt Cà Chua 85G",
+    "label": 22
+  },
+  {
+    "sentence": "Tôm Sú (Kg) Size 20-25 Con/Kg",
+    "label": 25
+  },
+  {
+    "sentence": "Chả Bắp Hoa Doanh 300G",
+    "label": 23
+  },
+  {
+    "sentence": "Giấy Lụa Hộp Posy 180 Tờ",
+    "label": 15
+  },
+  {
+    "sentence": "Eke inox 400x600",
+    "label": 9
+  },
+  {
+    "sentence": "Snack Doritos Taco Gói 65G",
+    "label": 0
+  },
+  {
+    "sentence": "Nước Mắm Chay Liên Thành Chai 300Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Nước Tẩy Nhà Tắm Duck Pro 900Ml",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Mắm Ông Kỳ 40N 525Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Sữa Bột Dinh Dưỡng Similac IQ 4 900G",
+    "label": 2
+  },
+  {
+    "sentence": "Kẹo Cao Su Cool Air Hương Bạc Hà Khuynh Diệp Hũ 58.4G",
+    "label": 0
+  },
+  {
+    "sentence": "Bình sữa Pigeon Streamline PP 250ml",
+    "label": 2
+  },
+  {
+    "sentence": "Muối I-ốt Cao Cấp Vifon Gói 950G",
+    "label": 12
+  },
+  {
+    "sentence": "Set Cơm Phần Hàn Quốc Đùi Gà",
+    "label": 22
+  },
+  {
+    "sentence": "Dĩa sâu nhám 6(PV139-6)(Clay - Light brown)",
+    "label": 15
+  },
+  {
+    "sentence": "Mì Koreno Jumbo Vị Kim Chi 10 Gói*100G",
+    "label": 22
+  },
+  {
+    "sentence": "Cháo Tươi SG Food Baby Tôm, Rau Ngót Nhật & Cà Rốt 240G",
+    "label": 22
+  },
+  {
+    "sentence": "Giấy Lụa Hộp Pulppy Hương Trà 100 Tờ",
+    "label": 15
+  },
+  {
+    "sentence": "Xe Scooter Zipper Zycom Xanh Lá 212-358",
+    "label": 15
+  },
+  {
+    "sentence": "Mặt Nạ Ủ Tóc Vedet Bơ 110Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Phí thuê  tháng 04/2021",
+    "label": 17
+  },
+  {
+    "sentence": "Nhớt chuẩn 30000 cps 500ml/chai (Brookfield) PO: 20/00921 ",
+    "label": 8
+  },
+  {
+    "sentence": "Dao Cạo Gillette Vector 1 Up",
+    "label": 4
+  },
+  {
+    "sentence": "Phở Gấu Đỏ Vị Gà Gói 65G",
+    "label": 22
+  },
+  {
+    "sentence": "Snack Khoai Tây Lay's Vị Tự Nhiên Gói 56G",
+    "label": 0
+  },
+  {
+    "sentence": "BỘ BÀN PHIM CHUỘT KHÔNG DÂY DELL KM636 (Xuất hóa đơn theo PO số: 1579788, ngày 20/4/2021)",
+    "label": 28
+  },
+  {
+    "sentence": "Sữa Rửa Mặt Biore Tạo Bọt Kiểm Soát Nhờn 150Ml",
+    "label": 4
+  },
+  {
+    "sentence": "Xúc xích  tỏi 200g",
+    "label": 20
+  },
+  {
+    "sentence": "Kem Đánh Răng P/S Bảo Vệ 123 Nha Đam Mẫu Đơn 180G",
+    "label": 5
+  },
+  {
+    "sentence": "PO 1602405",
+    "label": 7
+  },
+  {
+    "sentence": "Hoa Lily Dalat Hasfarm",
+    "label": 15
+  },
+  {
+    "sentence": "Xà Lách Lô Lô Tím Thủy Canh Cao Nguyên 150G",
+    "label": 18
+  },
+  {
+    "sentence": "Bộ Đôi Bàn Chải Đánh Răng P/S Baking Soda",
+    "label": 5
+  },
+  {
+    "sentence": "Bộ 10 Móc Áo Nhựa Xoay JPC",
+    "label": 15
+  },
+  {
+    "sentence": "Xốt Gia Vị Hoàn Chỉnh Barona Cá Thịt Kho 80G",
+    "label": 12
+  },
+  {
+    "sentence": "Xịt Ngăn Mùi Romano Gentleman 150Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Sữa Bột Anmun Materna Socola Hộp Thiếc 800G",
+    "label": 19
+  },
+  {
+    "sentence": "Kem Đánh Răng Aquafresh Family Protection Fresh & Minty 100G",
+    "label": 5
+  },
+  {
+    "sentence": "Nước Mắm Thanh Hà 20N 500Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Cá Nục Sốt Cà Sea Crown 155G",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Sandwich Lạt 400G",
+    "label": 0
+  },
+  {
+    "sentence": "Thịt Hộp Xông Khói American Pride 340G",
+    "label": 22
+  },
+  {
+    "sentence": "Sashimi cá hồi đặc biệt (2 khách)",
+    "label": 22
+  },
+  {
+    "sentence": "Nhớt chuẩn 12500CPS  500ml/chai (Brookfield) ",
+    "label": 8
+  },
+  {
+    "sentence": "Khăn Ướt Baby Care Không Hương 80 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "Xúc Xích Tiệt Trùng Vissan Bò Gói 70G*4 Cây",
+    "label": 22
+  },
+  {
+    "sentence": "Chả Giò G Thịt Nhân Sốt Tứ Xuyên 300G",
+    "label": 23
+  },
+  {
+    "sentence": "Rá Inox 27Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Trà Bí Đao Wonderfarm Lon 310Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Cam Sành Global Gap Túi 1Kg (3-4 Trái)",
+    "label": 24
+  },
+  {
+    "sentence": "Băng Vệ Sinh Kotex Ban Đêm 12Miếng*28Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Sữa Tắm Biore Guard Sạch Mịn Thư Giãn 800G",
+    "label": 3
+  },
+  {
+    "sentence": "Ucsan M257 Lô 2 khay đá",
+    "label": 15
+  },
+  {
+    "sentence": "Hóa chất \r\n1-HeptaneSulfonic Acid, Sodium Salt\r\nH/0168/46, 25g/chai (Fisher)\r\nPO 21/01458",
+    "label": 8
+  },
+  {
+    "sentence": "Sữa tắm gội Purite baby hoa anh đào 500ml",
+    "label": 2
+  },
+  {
+    "sentence": "Bột Ca Cao Milo Hộp 285G",
+    "label": 21
+  },
+  {
+    "sentence": "Kem Tẩy Lông Cleo Hồng 25G",
+    "label": 3
+  },
+  {
+    "sentence": "Bột Ca Cao Milo Hũ 400G",
+    "label": 29
+  },
+  {
+    "sentence": "Nước Giặt Surf Hương Nước Xả Vải Cỏ Hoa Diệu Kỳ Túi 3.5Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Phụ thu phí dịch vụ bảo vệ theo hợp đồng thuê nhà \nxưởng số : 01-2021/HĐTK",
+    "label": 17
+  },
+  {
+    "sentence": "Cà Phê Nescafe Cappuccino Caramel 10Gói*20G",
+    "label": 29
+  },
+  {
+    "sentence": "Dầu Gội Head & Shoulders Cho Da Đầu Ngứa Chai 850Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Lốc 3 Sữa Tươi Tiệt Trùng Bổ Sung Sữa Non Vitadairy Colos Fresh Milk 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Bánh Bông Lan Solite 2 Lớp Lá Dứa 360G",
+    "label": 0
+  },
+  {
+    "sentence": "Cà Chua Cherry Socola PT Farm 300G",
+    "label": 18
+  },
+  {
+    "sentence": "Bánh Quy LU Gói 200G",
+    "label": 0
+  },
+  {
+    "sentence": "Nước Giặt Xả 5in1 Mr.Care Romantic Chai 2.4Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Bánh Ăn Sáng Nestle Koko Krunch 170G",
+    "label": 0
+  },
+  {
+    "sentence": "Kem Đánh Răng P/s Baking Soda Và Hương Thảo 230G",
+    "label": 5
+  },
+  {
+    "sentence": "Táo Lolipop Pháp kg",
+    "label": 24
+  },
+  {
+    "sentence": "R011313 Sơn (799-88603, 180L-V)",
+    "label": 9
+  },
+  {
+    "sentence": "Cháo Yến Mạch Xuân An Rau Nấm Gói 40G",
+    "label": 22
+  },
+  {
+    "sentence": "Snack Rong Biển Bibigo Bắp Mật Ong Gói 25G",
+    "label": 0
+  },
+  {
+    "sentence": "Sữa Dưỡng Thể Chống Nắng Skin Aqua Cooling Tuýp 150Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Đường Thốt Nốt Nguyên Chất Anh Đăng 300G",
+    "label": 12
+  },
+  {
+    "sentence": "Hộp Bánh Macaron",
+    "label": 0
+  },
+  {
+    "sentence": "Lốc 4 Sữa Chua Uống TH True Yogurt Vani 100Ml",
+    "label": 20
+  },
+  {
+    "sentence": "MỰC IN CF287A ( XUẤT HÓA ĐƠN THEO PO SỐ:1610368 , 14/1/2022)",
+    "label": 26
+  },
+  {
+    "sentence": "Nước Ngọt Fanta Việt Quất Sleek Lon 320Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Bột Giặt Lix Đậm Đặc Máy Giặt Cửa Trên 6Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Mũi khoan L500 1.3",
+    "label": 9
+  },
+  {
+    "sentence": "Bánh Quy Regal MarieDuo Kem Socola Gói 240G",
+    "label": 0
+  },
+  {
+    "sentence": "Bí Ngòi Xanh 1 Trái PT Farm",
+    "label": 18
+  },
+  {
+    "sentence": "Chà là Mỹ 340g",
+    "label": 24
+  },
+  {
+    "sentence": "Sữa Tắm Biore Guard Mát Lạnh Kháng Khuẩn 800G",
+    "label": 3
+  },
+  {
+    "sentence": "Mặt Nạ Purite Se Nhỏ Lỗ Chân Lông 20G",
+    "label": 4
+  },
+  {
+    "sentence": "Sữa Tắm Johnson's pH5.5 2in1 750Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Bánh Quy Walkers Socola Hạt Dẻ 150G",
+    "label": 0
+  },
+  {
+    "sentence": "Nước Súc Miệng Listerine Natural Green Tea 250Ml",
+    "label": 5
+  },
+  {
+    "sentence": "Mì Xào Khô Chomp Chomp Kiểu Tôm Thái Lan Gói 80G",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Que Thái Dorkbua Heo Xông Khói 25G",
+    "label": 0
+  },
+  {
+    "sentence": "Tiền thuê mặt bằng từ 01.03.2021 đến 31.03.2021 lô B1-R3-4",
+    "label": 17
+  },
+  {
+    "sentence": "Chả Bách Hoa Trứng Muối Hoa Doanh Gói 300G",
+    "label": 23
+  },
+  {
+    "sentence": "Mẹt heo 5 món",
+    "label": 22
+  },
+  {
+    "sentence": "Tã quần Huggies L48",
+    "label": 2
+  },
+  {
+    "sentence": "Giấy vệ sinh An An",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Thạch Jelly Gumi Vitamin B Vị Nho 150G",
+    "label": 29
+  },
+  {
+    "sentence": "Nhãn Ngâm Đường Dole Hộp 565G",
+    "label": 29
+  },
+  {
+    "sentence": "Hỗ trợ quảng cáo tháng 11/2021",
+    "label": 17
+  },
+  {
+    "sentence": "Bơ Đậu Phộng Golden Farm Hạt 340G",
+    "label": 22
+  },
+  {
+    "sentence": "Lốc 6 Sữa Tươi Tiệt Trùng Promess Dâu Hộp 200Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Gói 10 Bánh Mì Bơ",
+    "label": 0
+  },
+  {
+    "sentence": "Chảo Inox 5 Đáy Sunhouse IN24M2",
+    "label": 15
+  },
+  {
+    "sentence": "Công nợ in ấn chương trình Outlet. Xuất theo bảng kê đính kèm",
+    "label": 1
+  },
+  {
+    "sentence": "Sữa Tiệt Trùng Dutch Lady Không Đường Bịch 220Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Dấm trắng 1L - Coroli",
+    "label": 12
+  },
+  {
+    "sentence": "Hạt Nêm Meizan Thịt Xương Ống Tủy Cà Rốt Gói 400G",
+    "label": 12
+  },
+  {
+    "sentence": "Sashimi Cá hồi (5pc)",
+    "label": 22
+  },
+  {
+    "sentence": "Há Cảo Tôm Thịt CP 265G",
+    "label": 23
+  },
+  {
+    "sentence": "Giấy Lụa Rút Tre Elene 160 Tờ 3 Lớp",
+    "label": 15
+  },
+  {
+    "sentence": "Ba Rọi Heo G (Kg)",
+    "label": 25
+  },
+  {
+    "sentence": "Máy Ép Trái Cây Philips HR1836 700W",
+    "label": 15
+  },
+  {
+    "sentence": "Nấm Hương Khô Việt San 80G",
+    "label": 22
+  },
+  {
+    "sentence": "Cà Phê Highlands Di Sản Gói 200G",
+    "label": 29
+  },
+  {
+    "sentence": "Nước Súc Miệng P/S Pro Complete 500Ml",
+    "label": 5
+  },
+  {
+    "sentence": "Bánh Xếp Hải Sản Đặc Biệt Dasu 270G",
+    "label": 23
+  },
+  {
+    "sentence": "Cà Phê Sữa King Coffee 50Gói*24G",
+    "label": 29
+  },
+  {
+    "sentence": "Chi phí sử dụng nguồn điện T04/2021 lô L1-02",
+    "label": 17
+  },
+  {
+    "sentence": "Má Đùi Gà Unitek (Kg)",
+    "label": 25
+  },
+  {
+    "sentence": "Dịch vụ phòng khách sạn 18-20/1/2021",
+    "label": 17
+  },
+  {
+    "sentence": "DÉP CÓI 109",
+    "label": 15
+  },
+  {
+    "sentence": "Nho Khô Úc Nasaa Organic Hũ 240G",
+    "label": 0
+  },
+  {
+    "sentence": "(PO 1613687)",
+    "label": 7
+  },
+  {
+    "sentence": "Cà Chua Cocktail Hasfarm Green+ 300G",
+    "label": 18
+  },
+  {
+    "sentence": "Lốc 4 Sữa Bắp Non Lif K2 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Nước Rửa Tay Lifebuoy Chanh Khử Mùi Chai 500G",
+    "label": 3
+  },
+  {
+    "sentence": "Túi Zipper Kokusai Freezer 15 Túi*20*14.9*4.7Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Name Tag Đơn",
+    "label": 26
+  },
+  {
+    "sentence": "Thịt Hàu Sữa Gói 500G",
+    "label": 25
+  },
+  {
+    "sentence": "Bánh Xếp Innovi Foods Sò Điệp Phô Mai Gói 350G",
+    "label": 23
+  },
+  {
+    "sentence": "Cải Thìa Rau Cười Việt Nhật 300G",
+    "label": 18
+  },
+  {
+    "sentence": "Tôm Gangjeong Sốt Cay Ngọt",
+    "label": 22
+  },
+  {
+    "sentence": "Kẹo Cứng Alpenliebe Caramen Túi 329G",
+    "label": 0
+  },
+  {
+    "sentence": "Dầu Olive Extra Virgin Olivoila 250Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Tiền thuê mặt bằng từ 01.04.2021 đến 30.04.2021 lô L1-02",
+    "label": 17
+  },
+  {
+    "sentence": "Trái tắc (quả hạnh)",
+    "label": 24
+  },
+  {
+    "sentence": "Dầu Phộng Tường An 1L",
+    "label": 12
+  },
+  {
+    "sentence": "Túi Hút Ẩm Farcent Hoa Oải Hương 200G",
+    "label": 15
+  },
+  {
+    "sentence": "69779 EUC Kem duong Aquaporin Active50ml",
+    "label": 3
+  },
+  {
+    "sentence": "Băng keo hai mặt 2.4P",
+    "label": 26
+  },
+  {
+    "sentence": "Dâu Hàn Quốc Seolhyang Hộp 500G",
+    "label": 24
+  },
+  {
+    "sentence": "Cần Tây PT Farm 500G",
+    "label": 18
+  },
+  {
+    "sentence": "1505030000017 - Phí gói quà",
+    "label": 17
+  },
+  {
+    "sentence": "Xịt Khử Mùi Nivea Serum Dưỡng Trắng Mịn Sakura 150Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Kem Đặc Có Đường Suối Nguồn Lon 390G",
+    "label": 19
+  },
+  {
+    "sentence": "Thu hộ Phụ phí xếp dỡ tại cảng đến (THD)",
+    "label": 10
+  },
+  {
+    "sentence": "Đậu Đỏ Tây PMT 450G",
+    "label": 13
+  },
+  {
+    "sentence": "Vỉ 2 Pin AA Energizer Max E91",
+    "label": 15
+  },
+  {
+    "sentence": "Khăn Ướt Baby Nuna Gói Du Lịch 30 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "Chôm chôm nhãn",
+    "label": 24
+  },
+  {
+    "sentence": "Sữa Trái Cây Nutizen Nha Đam Hương Cam 290Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Khăn Ướt Bobby Care 100 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "Kẹo Cao Su Mentos Pure Fresh Bạc Hà Không Đường Hũ 61.25G",
+    "label": 0
+  },
+  {
+    "sentence": "Khẩu Trang KF94 Anyguard 3D Lớn 4 Lớp Túi 1 Cái",
+    "label": 15
+  },
+  {
+    "sentence": "Bột Nếp Tài Ký Gói 400G",
+    "label": 12
+  },
+  {
+    "sentence": "Củ Sắn (Kg)",
+    "label": 18
+  },
+  {
+    "sentence": "Lốc 4 Sữa Ngũ Cốc Canxi B'fast Hộp 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Sữa Dinh Dưỡng Vinamilk Không Đường Bịch 220Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Bánh mì sữa tươi Otto bơ sữa 55g (55g x 6gói x 10túi)",
+    "label": 0
+  },
+  {
+    "sentence": "Nước Khoáng Thiên Nhiên Miocen 500Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Bột Ăn Dặm Ridielac Gold Heo Bó Xôi Hộp Giấy 200G",
+    "label": 2
+  },
+  {
+    "sentence": "Đậu Hũ Hải Sản Tân Việt Sin Gói 500G",
+    "label": 20
+  },
+  {
+    "sentence": "Rong Biển Kfood Muối Mè 25G",
+    "label": 22
+  },
+  {
+    "sentence": "Xốt Mayo Nhật Kewpie 1/2 Béo 300G",
+    "label": 12
+  },
+  {
+    "sentence": "Hỗn Hợp Nấm Linh Chi Hokto 200G",
+    "label": 18
+  },
+  {
+    "sentence": "Lốc 10 Nĩa Nhựa Spriing",
+    "label": 15
+  },
+  {
+    "sentence": "Ớt Chuông Hai Màu 350G",
+    "label": 18
+  },
+  {
+    "sentence": "Bún Bò Huế Hằng Nga 73G",
+    "label": 22
+  },
+  {
+    "sentence": "Nước Giặt Omo Matic Cửa Trên Túi 2.2Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Dừa Cocoxim Thơm 330Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Ô Mai Hà Thành Mơ Cay Hũ 200G",
+    "label": 0
+  },
+  {
+    "sentence": "Chả Giò Tôm Cua Rong Biển La Cusina Gói 500G",
+    "label": 23
+  },
+  {
+    "sentence": "Bánh Quy St Michel Truyền Thống 130G",
+    "label": 0
+  },
+  {
+    "sentence": "Hạt Nêm Knorr Thịt Thăn Xương Ống Và Tủy 1.2Kg",
+    "label": 12
+  },
+  {
+    "sentence": "DÉP CHUỐI HỘT",
+    "label": 15
+  },
+  {
+    "sentence": "Sữa Hạt Sen Tami Chai 330Ml",
+    "label": 22
+  },
+  {
+    "sentence": "Dầu Olive Olivoila Pomace 1L",
+    "label": 12
+  },
+  {
+    "sentence": "Thảm Vải Bố Lau Chân Silva 40*60Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Bánh Quy Giòn Malkist Nhân Kem 135G",
+    "label": 0
+  },
+  {
+    "sentence": "Dưa lưới tròn – kg",
+    "label": 24
+  },
+  {
+    "sentence": "Cà Rốt Đà Lạt PT Farm 500G",
+    "label": 18
+  },
+  {
+    "sentence": "Mì Spaghetti San Remo Số 5 500G",
+    "label": 22
+  },
+  {
+    "sentence": "Hóa chất \r\nDimethyl sulfoxide, 99.9+%, for analysis\r\n2.5lít/chai (Fisher)  \r\nPO  21/01458",
+    "label": 8
+  },
+  {
+    "sentence": "Bánh Oreo Kem Vani Hộp 7Gói*29.4G",
+    "label": 0
+  },
+  {
+    "sentence": "Lốc 4 Sữa Tươi 100 Điểm Nutimilk Ít Đường Hộp 110Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Lốc 4 Sữa Tươi Tiệt Trùng Vinamilk 100% Tách Béo Có Đường Hộp Giấy 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Tăm Bông Diva Baby Hộp Tròn 200 Que Nhựa",
+    "label": 15
+  },
+  {
+    "sentence": "Yến Mạch Ăn Liền Just Oats Cán Mỏng Gói 907G",
+    "label": 21
+  },
+  {
+    "sentence": "Cá Trích Sốt Cà Lilly 155G",
+    "label": 22
+  },
+  {
+    "sentence": "Mì Hảo Hảo Sa Tế Hành Tím Gói 75G",
+    "label": 22
+  },
+  {
+    "sentence": "Đậu Nành Nhật Hạt Tươi 200G",
+    "label": 18
+  },
+  {
+    "sentence": "Thanh Cua Surimi Hương Cua 400G",
+    "label": 23
+  },
+  {
+    "sentence": "Túi Môi Trường Emart Tái Sử Dụng Size Nhỏ 28.5*35*16Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Dầu Hào Nam Dương 270G",
+    "label": 12
+  },
+  {
+    "sentence": "Lô 3 Ống Hút Inox Nghiêng Và 1 Cọ Vệ Sinh",
+    "label": 15
+  },
+  {
+    "sentence": "SZ - Cơm tô thịt bò Mỹ & udon nóng",
+    "label": 22
+  },
+  {
+    "sentence": "Nước Rửa Tay Sofia Táo 500Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Xúc Xích Tươi CP Vealz 10 Cây 500G",
+    "label": 20
+  },
+  {
+    "sentence": "Kem Đánh Răng P/S Bảo Vệ 123 Than Hoạt Tính & Tre 230G",
+    "label": 5
+  },
+  {
+    "sentence": "Serum Chống Nắng Biore Dưỡng Thể Kháng Bụi Trắng Mịn Da 150Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Kẹo Cao Su Mentos Pure Fresh Chanh & Bạc Hà Không Đường Hũ 61.25G",
+    "label": 0
+  },
+  {
+    "sentence": "Gạo Thơm Neptune Đặc Sản ST24 5Kg",
+    "label": 13
+  },
+  {
+    "sentence": "Lốc 5 Mì Xào Nissin Gà Cay Trứng Muối Gói 71G",
+    "label": 22
+  },
+  {
+    "sentence": "Snack Toonies Cay 38G",
+    "label": 0
+  },
+  {
+    "sentence": "Nước Tẩy Trang Nivea Tinh Chất Ngọc Trai Sáng Da Dưỡng Ẩm Chai 400Ml",
+    "label": 4
+  },
+  {
+    "sentence": "Bia Larue Xanh Thùng 24 Lon 330Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Lốc 4 Sữa Tươi Tiệt Trùng Vinamilk Green Farm Không Đường 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Kẹo Ngậm Mentos Pure Fresh Spearmint Không Đường Hũ 35G",
+    "label": 0
+  },
+  {
+    "sentence": "MỰC IN CF226A",
+    "label": 26
+  },
+  {
+    "sentence": "Gel Chống Nắng Anessa SPF 50+ PA++++ Dưỡng Trắng Da 90G",
+    "label": 4
+  },
+  {
+    "sentence": "Nước Khoáng Lavie Prestige Chai 700Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Xúc Xích Tiệt Trùng Ponnie Phô Mai Thịt Xông Khói Cây 45G",
+    "label": 22
+  },
+  {
+    "sentence": "Mì Ý Hiền Thảo Bò Bằm Gói 250G",
+    "label": 23
+  },
+  {
+    "sentence": "Cà Phê Gourmet Blend Trung Nguyên 500G",
+    "label": 29
+  },
+  {
+    "sentence": "Bí hạt đậu Danny Green kg",
+    "label": 24
+  },
+  {
+    "sentence": "Ổ Cắm Điện Napolight PS02 6 Lỗ 2 Cổng USB Dây 3M",
+    "label": 15
+  },
+  {
+    "sentence": "Táo Juici Mỹ kg",
+    "label": 24
+  },
+  {
+    "sentence": "Nước Ngọt Fanta Cam 600Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Sữa Rửa Mặt Biore Sáng Mịn & Dưỡng Ẩm 50G",
+    "label": 4
+  },
+  {
+    "sentence": "Cà Phê Phố Nhà Làm Hộp 10 Gói*28G",
+    "label": 29
+  },
+  {
+    "sentence": "Sữa Đặc Có Đường Ngôi Sao Phương Nam Xanh Dương Lon 380G",
+    "label": 19
+  },
+  {
+    "sentence": "Hộp 6 Trứng Vịt Vfood Omega 3 - DHA",
+    "label": 25
+  },
+  {
+    "sentence": "Kẹo Mút Chupa Chups Cây Còi Thổi Hương Dâu 60G",
+    "label": 0
+  },
+  {
+    "sentence": "MÁY TÍNH ĐỂ BÀN HP 280 PRO G5 SFF I3-10100/4GB RAMDDR4/1TB HDD/SSD WD/SERIAL PORT/2XLAN PORT/KEYBOARD/MOUSE/WINDOWS10 HOME 64BIT SL/ LCD HP 19KA (Xuất hóa đơn theo PO số: 1573179 ,ngày 18/2/2021)",
+    "label": 28
+  },
+  {
+    "sentence": "Xúc Xích Tươi Đông Nam Á Kiểu V-Đức 200G",
+    "label": 20
+  },
+  {
+    "sentence": "Huấn luyện an toàn làm việc trên cao",
+    "label": 17
+  },
+  {
+    "sentence": "Bánh Quế Cosy Dâu 132G",
+    "label": 0
+  },
+  {
+    "sentence": "Sốt salad Smoky Caesar 210ml - Hellmann's",
+    "label": 12
+  },
+  {
+    "sentence": "Lốc 4 Sữa Tươi Tiệt Trùng TH True Milk Hilo Vị Tự Nhiên Hộp Giấy 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Hành Paro PT Farm 250G",
+    "label": 18
+  },
+  {
+    "sentence": "Bơ Hạt Phỉ Phết Cacao Nutella 350G",
+    "label": 22
+  },
+  {
+    "sentence": "Bộ Đôi Bàn Chải Đánh Răng Và Kem Đánh Răng Colgate Maxfresh Bạc Hà 230G",
+    "label": 5
+  },
+  {
+    "sentence": "Sữa Tắm Gội Purite Baby Tinh Dầu Cam Chai 500Ml",
+    "label": 2
+  },
+  {
+    "sentence": "Bàn Chải Đánh Răng Sensodyne Repair & Protect Extra Soft",
+    "label": 5
+  },
+  {
+    "sentence": "Ổ CỨNG WD 8TB 3.5\"SATA3-WD8004FRYZ (XUẤT HÓA ĐƠN THEO PO SỐ: 1582966, 18/5/2021 )",
+    "label": 28
+  },
+  {
+    "sentence": "Phở Bò Hoàng Gia Vifon Gói 120G",
+    "label": 22
+  },
+  {
+    "sentence": "Quýt Úc",
+    "label": 24
+  },
+  {
+    "sentence": "Nước Tinh Khiết Sapuwa 500Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Sữa Dưỡng Thể St.Ives Yến Mạch & Bơ 621Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Bánh Đậu Xanh Rồng Vàng Hoàng Gia Sầu Riêng 170G",
+    "label": 0
+  },
+  {
+    "sentence": "Hóa chất Polymyxin Sees agar  (Antibiotic Assay N10) 500g/chai - M225 (Himeida) PO 21/00237 ",
+    "label": 8
+  },
+  {
+    "sentence": "Sữa Tắm Linn Saroma Hoa Hoắc Hương Tự Tin Chai 400Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Nước Giặt Surf Hương Nước Xả Vải Sương Mai Dịu Mát Túi 3.5Kg",
+    "label": 15
+  },
+  {
+    "sentence": "Nho Khô Nguyên Cành Úc Crimson Hộp 450G",
+    "label": 0
+  },
+  {
+    "sentence": "Thau Inox 304 Super Chef SC_DMB3316 16Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Nhãn xuồng cơm vàng Vũng Tàu loại 1",
+    "label": 24
+  },
+  {
+    "sentence": "Cà Phê Robusta SC13-5,0%BB-1.0%FM - 4C                                            Hợp đồng DF21000049                                                               (Giá tạm tính) .Tỷ giá: 22.560",
+    "label": 29
+  },
+  {
+    "sentence": "Bộ Dao Nhà Bếp 6 Món Lock&Lock CKK101S01",
+    "label": 15
+  },
+  {
+    "sentence": "Nui Cao Cấp Meizan 200G",
+    "label": 22
+  },
+  {
+    "sentence": "Khẩu Trang Y Tế 3D Gold Mask Size M Hương Bạc Hà Túi 5 Cái",
+    "label": 15
+  },
+  {
+    "sentence": "BUN C.TOM T.NUONG",
+    "label": 22
+  },
+  {
+    "sentence": "Ruột Gối 40*60Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Đậu Ván PMT 450G",
+    "label": 13
+  },
+  {
+    "sentence": "Nước Cốt Dừa Wonderfarm Lon 400Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Sữa tắm gội Lactacyd baby Milky 500ml",
+    "label": 2
+  },
+  {
+    "sentence": "Sườn Ống Lúa Mạch Chay An Nhiên 150G",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Mì Tươi Kinh Đô Bơ Sữa Gói 55G",
+    "label": 0
+  },
+  {
+    "sentence": "Khẩu Trang Y Tế N95 Cao Cấp Mymo Mask Hộp 10 Cái",
+    "label": 15
+  },
+  {
+    "sentence": "Đậu Đen PMT 450G",
+    "label": 13
+  },
+  {
+    "sentence": "Sticker Tôn Zacs Bền Lạnh Inok 439 (500 x 300 mm)",
+    "label": 9
+  },
+  {
+    "sentence": "Cà Phê Nescafe 3IN1 Sữa Đá 24G*10 Gói",
+    "label": 29
+  },
+  {
+    "sentence": "Bánh Que Thái Dorkbua Heo Xông Khói 55G",
+    "label": 0
+  },
+  {
+    "sentence": "Dưa Leo Baby PT Farm Vỉ 500G",
+    "label": 18
+  },
+  {
+    "sentence": "Lốc 4 Sữa Chua Uống TH True Yogurt Việt Quất 100Ml",
+    "label": 20
+  },
+  {
+    "sentence": "Băng Vệ Sinh Kotex Mini Meow Siêu Mềm Siêu Mỏng Cánh 8 Miếng*24Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Lốc 4 Sữa Tươi Tiệt Trùng TH True Nut Hạt Óc Chó Hộp Giấy 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Ổi Nữ Hoàng kg",
+    "label": 24
+  },
+  {
+    "sentence": "Pate Gan Hạ Long 90G",
+    "label": 22
+  },
+  {
+    "sentence": "Khăn Ướt Teen Care Hồng 20 Miếng - Hương Dịu Nhẹ",
+    "label": 15
+  },
+  {
+    "sentence": "Thức Uống Lúa Mạch Milo Hộp 400G",
+    "label": 29
+  },
+  {
+    "sentence": "Chả Giò Cholimex Tôm Thịt Gói 500G",
+    "label": 23
+  },
+  {
+    "sentence": "Lốc 4 Sữa Chua Ăn Kun Có Đường 75G",
+    "label": 20
+  },
+  {
+    "sentence": "Kẹo Skittles Orginal Hương Trái Cây Gói 45G",
+    "label": 0
+  },
+  {
+    "sentence": "Dầu Gội Dove Phục Hồi Hư Tổn 880G",
+    "label": 6
+  },
+  {
+    "sentence": "Ổi Đài Loan",
+    "label": 24
+  },
+  {
+    "sentence": "Hạt Dưa Rang H'Ren 500G",
+    "label": 0
+  },
+  {
+    "sentence": "Chả Cá Basa Chiên Thoại An Gói 300G",
+    "label": 25
+  },
+  {
+    "sentence": "Dưa lưới giống Nhật ruột cam BHSG",
+    "label": 24
+  },
+  {
+    "sentence": "Dầu Đậu Nành Tường An 2L",
+    "label": 12
+  },
+  {
+    "sentence": "Thạch Rau Câu New Choice Hương Khoai Môn 1Kg",
+    "label": 0
+  },
+  {
+    "sentence": "Trà Xanh Phúc Long Hộp Giấy 150G",
+    "label": 29
+  },
+  {
+    "sentence": "Khăn Cotton Be Organic Màu Xám Xanh 30*30Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Lăn Khử Mùi Nivea Men Mát Lạnh 50Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Nước Dừa Tươi Cocofresh Hộp 1L",
+    "label": 29
+  },
+  {
+    "sentence": "Nước Mắm Maggi Tự Nhiên Đậm Đà Vị Bắc 490Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Xốt Mè Rang Kewpie Chai 1L",
+    "label": 12
+  },
+  {
+    "sentence": "Đậu Phộng 450G",
+    "label": 13
+  },
+  {
+    "sentence": "Chai Xịt Dầu Ăn Thủy Tinh Super Chef 90Ml",
+    "label": 15
+  },
+  {
+    "sentence": "Nồi Inox Imat Blackcube 26Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Bột Tẩm Khô Chiên Giòn Aji-Quick 210G",
+    "label": 12
+  },
+  {
+    "sentence": "Bánh Pía Đậu Xanh Sầu Riêng 3 Sao 440G",
+    "label": 0
+  },
+  {
+    "sentence": "Bánh Quy Bơ Leibniz Cacao 200G",
+    "label": 0
+  },
+  {
+    "sentence": "Nui Meizan Cao Cấp Hình Xoắn 300G",
+    "label": 22
+  },
+  {
+    "sentence": "Kem Đánh Răng Close Up Dừa & Than Hoạt Tính 180G",
+    "label": 5
+  },
+  {
+    "sentence": "Nắp (CAP LFE DOWNY D2D TIFFANY BLUE 50ML)",
+    "label": 15
+  },
+  {
+    "sentence": "Trà Xanh Dilmah Anh Quốc Hộp 125G",
+    "label": 29
+  },
+  {
+    "sentence": "Bột Bánh Flan Purin Mix Vị Trứng Hộp 55G",
+    "label": 12
+  },
+  {
+    "sentence": "Nước Ion Kiềm Fujiwa Chai 1.25L",
+    "label": 29
+  },
+  {
+    "sentence": "Bò Viên Vissan Gói 200G",
+    "label": 23
+  },
+  {
+    "sentence": "Bơ both",
+    "label": 24
+  },
+  {
+    "sentence": "Khô Heo G Vị Bơ Tỏi Hộp 120G",
+    "label": 22
+  },
+  {
+    "sentence": "Khăn Ướt Luck Lady 10 Tờ Có Mùi",
+    "label": 15
+  },
+  {
+    "sentence": "Phô Mai Milkana Hộp Giấy 120G",
+    "label": 19
+  },
+  {
+    "sentence": "Máy Đánh Trứng  Daewoo DWHM-318",
+    "label": 15
+  },
+  {
+    "sentence": "Táo Đỏ Xuất Xứ Mỹ (Kg) 4~5 Trái/Kg",
+    "label": 24
+  },
+  {
+    "sentence": "Táo Fuji Nhật hộp 3 trái",
+    "label": 24
+  },
+  {
+    "sentence": "Bánh Gạo Ruốc Thịt Heo Rong Biển 125G",
+    "label": 0
+  },
+  {
+    "sentence": "Sữa Chống Nắng Sunplay Aqua Silky Gel SPF50 30G",
+    "label": 4
+  },
+  {
+    "sentence": "Hóa chất Piperazine, 99%, extra pure\r\n100g/chai (Acros)\r\nPO: 21/01539  +  21/01538",
+    "label": 8
+  },
+  {
+    "sentence": "Cá Ngừ Ngâm Dầu Thực Vật Century 170G",
+    "label": 22
+  },
+  {
+    "sentence": "Cà Phê Mr Brown Blue 240Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Cà Phê Nescafe 3in1 Đỏ Rang xay 17G*15 Gói",
+    "label": 29
+  },
+  {
+    "sentence": "Cá Ngừ Sea Crown Xắt Khúc Ngâm Muối 140G",
+    "label": 22
+  },
+  {
+    "sentence": "Bộ Nồi Inox 5 Đáy Quai Vàng Sunhouse SH781/887 16Cm+20Cm+24Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Rau Thơm Hỗn Hợp Cao Nguyên 100G",
+    "label": 18
+  },
+  {
+    "sentence": "Chả Cá Thát Lát Tươi Deli 250G",
+    "label": 25
+  },
+  {
+    "sentence": "Khô Bò Tam Food Vị Quế Hồi 250G",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Tráng Tây Ninh Doxaco 500G",
+    "label": 22
+  },
+  {
+    "sentence": "Sữa Bột Dinh Dưỡng Ensure Gold Vani 850G",
+    "label": 19
+  },
+  {
+    "sentence": "Mì Spaghetti Leonardo Gói 500G",
+    "label": 22
+  },
+  {
+    "sentence": "Nước mắt nhân tạo lacrifresh comfort Avizor 15ml",
+    "label": 27
+  },
+  {
+    "sentence": "Cơm Cháy Cố Đô Gói 65G",
+    "label": 22
+  },
+  {
+    "sentence": "Trà Green Time Hương Bưởi Chai 580Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Xúc Xích Vissan Lucky Việt 8 Cây 500G",
+    "label": 20
+  },
+  {
+    "sentence": "Kem Dưỡng L'Oreal Revitalift Chống Nhăn - Săn Da Ban Đêm 50Ml",
+    "label": 4
+  },
+  {
+    "sentence": "Sữa Tắm Aquala Lavender 1.2L",
+    "label": 3
+  },
+  {
+    "sentence": "Rau Răm VietGAP 100G",
+    "label": 18
+  },
+  {
+    "sentence": "Sốt Dầu Dấm Trộn Salad Nam Dương 250G",
+    "label": 12
+  },
+  {
+    "sentence": "Snack Toonies Phô Mai 38G",
+    "label": 0
+  },
+  {
+    "sentence": "Máy Xay Ép Đa Năng Tefal BL42Q166 1.25L",
+    "label": 15
+  },
+  {
+    "sentence": "Tã Quần Bobby M60 (6-11Kg)",
+    "label": 2
+  },
+  {
+    "sentence": "Gel Giữ Nếp Lâu Romano Classic 150G",
+    "label": 6
+  },
+  {
+    "sentence": "Tã quần Huggies Dry XXL28 – 28 miếng",
+    "label": 2
+  },
+  {
+    "sentence": "Nồi Inox 5 Đáy Sunhouse SHG502 24Cm",
+    "label": 15
+  },
+  {
+    "sentence": "Bộ 2 Bàn Chải Đánh Răng Colgate Cushion Clean Charcoal",
+    "label": 5
+  },
+  {
+    "sentence": "Xúc Xích Tươi CP Vealz 250G",
+    "label": 20
+  },
+  {
+    "sentence": "Tàu Hũ Trứng CP 220G",
+    "label": 18
+  },
+  {
+    "sentence": "Nước Ion Life 4.5L",
+    "label": 29
+  },
+  {
+    "sentence": "Sữa Bột Anmun Materna Vani Hộp Thiếc 800G",
+    "label": 19
+  },
+  {
+    "sentence": "Dầu Ăn Ranee Golden 2L",
+    "label": 12
+  },
+  {
+    "sentence": "Nước Xả Vải Downy Nắng Mai Túi 2.3L",
+    "label": 15
+  },
+  {
+    "sentence": "Sữa Tắm Aquala Pro Silk 1.2L",
+    "label": 3
+  },
+  {
+    "sentence": "Mơ Sấy Bakalland Hộp 200G",
+    "label": 0
+  },
+  {
+    "sentence": "Bột Ngọt Ajinomoto 454G",
+    "label": 12
+  },
+  {
+    "sentence": "Phi Lê Cá Basa Đóng Vỉ (Kg)",
+    "label": 25
+  },
+  {
+    "sentence": "Tôm Khô Đặc Biệt VS Foods Hộp 300G",
+    "label": 22
+  },
+  {
+    "sentence": "Bản rập Bulong neo phi chuẩn_BR1",
+    "label": 9
+  },
+  {
+    "sentence": "Chả Lụa Đông Nam Á 500G",
+    "label": 20
+  },
+  {
+    "sentence": "Bánh Tráng Cuốn Chả Giò Việt San Gói 100G",
+    "label": 22
+  },
+  {
+    "sentence": "Nước Dừa Cocoxim Tắc 330Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Sữa Tắm The Bol Hải Mã Five Seahorses 1Kg",
+    "label": 3
+  },
+  {
+    "sentence": "Nước Xả Vải Lix Soft Hương Sớm Mai 3.8L",
+    "label": 15
+  },
+  {
+    "sentence": "Sữa Gạo Lứt Ohsawa Yoo Chai 568Ml",
+    "label": 22
+  },
+  {
+    "sentence": "Kẹo Marshmallow Vani Hamido 250G",
+    "label": 0
+  },
+  {
+    "sentence": "Hóa chất  Dimethyl sulfoxide, 99.9+%, for analysis 2.5 lít/chai (Fisher) ",
+    "label": 8
+  },
+  {
+    "sentence": "Miếng Dán Mũi Biore Lột Mụn 4 Miếng",
+    "label": 4
+  },
+  {
+    "sentence": "Dưa lưới tròn Coop Select L1 kg",
+    "label": 24
+  },
+  {
+    "sentence": "Sữa Tắm Hazeline Matcha Lựu Đỏ Túi 1Kg",
+    "label": 3
+  },
+  {
+    "sentence": "Snack Swing Maxx Vị Bò Nướng Tỏi Đen 63G",
+    "label": 0
+  },
+  {
+    "sentence": "Lốc 4 Sữa Chua Uống Men Sống Betagen Cam 85Ml",
+    "label": 20
+  },
+  {
+    "sentence": "Băng keo trong 5P 100Y",
+    "label": 26
+  },
+  {
+    "sentence": "Rau Muống DALATGAP 300G",
+    "label": 18
+  },
+  {
+    "sentence": "Keo nước WinQ GL-01",
+    "label": 26
+  },
+  {
+    "sentence": "Mì Spaghetti Bistro Kem Phô Mai 100G",
+    "label": 22
+  },
+  {
+    "sentence": "DÂY TÍN HIỆU USB UGREEN -10324 20M ( xuất hóa đơn theo po số: 1576994, ngày 25/03/2021 )",
+    "label": 28
+  },
+  {
+    "sentence": "Bánh Pizza Manna Hải Sản Vị Ý 120G",
+    "label": 23
+  },
+  {
+    "sentence": "Lốc 12 Cuộn Giấy Vệ Sinh Saigon Care",
+    "label": 15
+  },
+  {
+    "sentence": "Nui Mikiri Ống Ngắn Gói 400G",
+    "label": 22
+  },
+  {
+    "sentence": "Cơm Cháy Cố Đô Hộp 120G",
+    "label": 22
+  },
+  {
+    "sentence": "Cà Phê Wake Up Đen Đá Việt Nam 35 Gói*16G",
+    "label": 29
+  },
+  {
+    "sentence": "Bánh 12 Loại Ngũ Cốc Trứng Crispy 180G",
+    "label": 0
+  },
+  {
+    "sentence": "Băng Vệ Sinh Diana Sensi Cool Fresh Siêu Mỏng Cánh 20 Miếng",
+    "label": 15
+  },
+  {
+    "sentence": "DÂY TÍN HIỆU VGA UGREEN 11636 30M",
+    "label": 28
+  },
+  {
+    "sentence": "Hạt Điều Casna Chiên Muối Hũ 450G",
+    "label": 0
+  },
+  {
+    "sentence": "Kem Rửa Mặt Tác Động Sâu Oxy 100G",
+    "label": 4
+  },
+  {
+    "sentence": "(PO 1605874)",
+    "label": 7
+  },
+  {
+    "sentence": "Đậu Phộng Tỏi Ớt Tân Tân Hũ 275G",
+    "label": 0
+  },
+  {
+    "sentence": "Hạt Nêm Knorr Thịt Thăn, Xương Ống & Tủy 900G",
+    "label": 12
+  },
+  {
+    "sentence": "Chả Giò Vissan Hải Sản Đặc Biệt Gói 300G",
+    "label": 23
+  },
+  {
+    "sentence": "Trà Cozy Hương Nhài 25Gói*2G",
+    "label": 29
+  },
+  {
+    "sentence": "Nghệ Mật Ong Chín Tổ Bonie Bee 250G",
+    "label": 21
+  },
+  {
+    "sentence": "Hộp 4 Trứng Gà Gộc Ba Huân",
+    "label": 25
+  },
+  {
+    "sentence": "Cac khoan thu khac",
+    "label": 11
+  },
+  {
+    "sentence": "Trà Mật Ong Hoa Lài 585Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Miến Gà Hầm Măng Chinsu Tô 123G",
+    "label": 22
+  },
+  {
+    "sentence": "Lưu kho hàng nguy hiểm từ 5 -> 7  ngày - TCLU6432144 - SIMSE2111004",
+    "label": 10
+  },
+  {
+    "sentence": "Lăn Khử Mùi Cao Cấp Enchanteur Delightful 50Ml",
+    "label": 3
+  },
+  {
+    "sentence": "Mì Spaghetti Bistro Bò Bằm 95G",
+    "label": 22
+  },
+  {
+    "sentence": "Lốc 6 Sữa Đậu Nành Fami Nguyên Chất Vị Bạc Hà 200Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Nước Ngọt Pepsi Cola 1.5L",
+    "label": 29
+  },
+  {
+    "sentence": "Kẹo Que Khổng Lồ Hamido 150G",
+    "label": 0
+  },
+  {
+    "sentence": "Sơn mặt PE - PDXD110 SLATE GREY XD110-4P947 180Lbr/",
+    "label": 9
+  },
+  {
+    "sentence": "Bia Budweiser Chai 330Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Dăm Bông Vai Đông Nam Á 200G",
+    "label": 20
+  },
+  {
+    "sentence": "Hóa chất \r\nDimethyl sulfoxide, 99.9+%, for analysis\r\n2.5 lít/chai (Fisher)",
+    "label": 8
+  },
+  {
+    "sentence": "Kem Rửa Mặt Hada Labo Pro Anti Aging Chống Lão Hóa 80G",
+    "label": 4
+  },
+  {
+    "sentence": "Cuốn kiểu California",
+    "label": 22
+  },
+  {
+    "sentence": "Cháo Tươi Cá Hồi Cây Thị 260G",
+    "label": 22
+  },
+  {
+    "sentence": "Nước Tương Cholimex Hương Việt Hảo Vị Chai 500Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Hộp 6 Trứng Gà Ba Huân",
+    "label": 25
+  },
+  {
+    "sentence": "Lốc 10 Khuôn Bánh Flan Hofaco HPB83",
+    "label": 15
+  },
+  {
+    "sentence": "Nước Rửa Chén Net Chanh Tươi Và Vitamin E Chai 750G",
+    "label": 15
+  },
+  {
+    "sentence": "Dầu Gội Extra Care Hydra Force 400Ml",
+    "label": 6
+  },
+  {
+    "sentence": "Lốc 4 Sữa VPMilk Cacao Mầm Lúa Mạch Hộp 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "cá mú 3 món",
+    "label": 22
+  },
+  {
+    "sentence": "Bánh Xếp La Cusina Hải Sản Rau Củ Gói 350G",
+    "label": 23
+  },
+  {
+    "sentence": "Khô Heo G Vị Cháy Tỏi Gói 25G",
+    "label": 22
+  },
+  {
+    "sentence": "Dầu Gội Romano Gentleman Chai 650G",
+    "label": 6
+  },
+  {
+    "sentence": "Thu hộ phụ phí quản lý thiết bị (EMF)",
+    "label": 17
+  },
+  {
+    "sentence": "Bếp Lẩu + Nướng Điện Super Chef Hai Ngăn SC-EG3022",
+    "label": 15
+  },
+  {
+    "sentence": "Lốc 3 Sữa Hạnh Nhân Almond Breeze Trà Xanh Hộp 180Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Mì Hảo Hảo Vị Sườn Heo Tỏi Phi 73G",
+    "label": 22
+  },
+  {
+    "sentence": "Lốc 4 Sữa Tươi 100 Điểm Nutimilk Có Đường Hộp 110Ml",
+    "label": 19
+  },
+  {
+    "sentence": "Áo Mưa Emart Có Kính Đèn Xe",
+    "label": 15
+  },
+  {
+    "sentence": "Bánh Tráng Mekong River Gạo Huyết Rồng 22Cm 300G",
+    "label": 22
+  },
+  {
+    "sentence": "SGN VII HAN//HPH SGN",
+    "label": 10
+  },
+  {
+    "sentence": "Gà Thảo Dược Nguyên Con 3F (Kg)",
+    "label": 25
+  },
+  {
+    "sentence": "Nước Dùng Hoàn Chỉnh Barona Lẩu Kim Chi 180G",
+    "label": 12
+  },
+  {
+    "sentence": "Sữa Tươi Tiệt Trùng Anchor Ít Béo Hộp Giấy 1L",
+    "label": 19
+  },
+  {
+    "sentence": "Bánh Bông Lan Shang Tian Đài Loan Vị Sầu Riêng 470G",
+    "label": 0
+  },
+  {
+    "sentence": "Hộp gỗ",
+    "label": 26
+  },
+  {
+    "sentence": "Nước Uống Pocari Lon 330Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Kiwi NewZealand hộp 3 trái",
+    "label": 24
+  },
+  {
+    "sentence": "Hạt Nêm Meizan Thịt Xương Ống Tủy Cà Rốt 1Kg",
+    "label": 12
+  },
+  {
+    "sentence": "Lô 10 Đũa Gỗ Cà Chí",
+    "label": 15
+  },
+  {
+    "sentence": "Bánh Quy Giòn Malkist Túi 8 Gói*27G",
+    "label": 0
+  },
+  {
+    "sentence": "Dầu Hạt Cải Simply 1L",
+    "label": 12
+  },
+  {
+    "sentence": "Nước Rửa Chén True Care Trà Xanh 750G",
+    "label": 15
+  },
+  {
+    "sentence": "Bánh Gạo Ruốc Thịt Heo 125G",
+    "label": 0
+  },
+  {
+    "sentence": "Sữa tắm gội Johnson’s Baby 500ml",
+    "label": 2
+  },
+  {
+    "sentence": "Xúc Xích Tiệt Trùng CP Red 5 Cây*20G",
+    "label": 22
+  },
+  {
+    "sentence": "Cà Phê Mr Brown Cappuccino 240Ml",
+    "label": 29
+  },
+  {
+    "sentence": "Hồng Trà Ceylon Green Time Chai 580Ml",
+    "label": 29
+  },
+  {
+    "sentence": "THÉP MẠ AL-ZN - MBDXX125 Activate G550",
+    "label": 9
+  },
+  {
+    "sentence": "Đậu Hòa Lan Wasabi Tân Tân 190G",
+    "label": 0
+  },
+  {
+    "sentence": "Cháo Thiên Ngọc Thịt Bằm Ăn Liền Gói 50G",
+    "label": 22
+  },
+  {
+    "sentence": "Nước Ngọt Sprite 600Ml",
+    "label": 29
+  },
+  {
+    "sentence": "1-1M1-1SAO25-SALOPAS CAO DAN H/10h/20mieng T/60H-",
+    "label": 27
+  },
+  {
+    "sentence": "Phối hợp tổ chức chương trình Private SALE HPI theo hợp đồng 12/HĐ.NVH",
+    "label": 17
+  },
+  {
+    "sentence": "Ổi nữ hoàng hộp 1 kg",
+    "label": 24
+  },
+  {
+    "sentence": "Bánh Tráng Mekong River Nghệ 22Cm 300G",
+    "label": 22
+  },
+  {
+    "sentence": "Bình Nước Nhựa Micronware 5231 560Ml",
+    "label": 15
+  },
+  {
+    "sentence": "Rong Nho Tách Nước Oki-Budo Gói 65G",
+    "label": 22
+  },
+  {
+    "sentence": "Khẩu Trang Purify N95 5 Lớp Hộp 30 Cái",
+    "label": 15
+  },
+  {
+    "sentence": "Kem Đánh Răng Oral Clean Vitamins White 100Ml",
+    "label": 5
+  },
+  {
+    "sentence": "Nước Mắm Hương Việt Cholimex 500Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Măng Chua Phú Vinh 300G",
+    "label": 22
+  },
+  {
+    "sentence": "Dầu Extra Virgin Olive Tường An 250Ml",
+    "label": 12
+  },
+  {
+    "sentence": "Snack Mực Rong Biển Talaethong Gói 220G",
+    "label": 0
+  },
+  {
+    "sentence": "Củ Sen Tươi Cắt Lát Senta 250G",
+    "label": 18
+  },
+  {
+    "sentence": "Bình Xịt Bọt Xà Phòng Cảm Ứng 360Ml AC006",
+    "label": 15
+  },
+  {
+    "sentence": "Kẹp Giữ Điện Thoại Trên Ôtô",
+    "label": 15
+  }
+]
