@@ -71,12 +71,12 @@ if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained(tokenizer_checkpoint)
 
     # DECLARE SEQUENCE CLASSIFICATION MODEL
-    model_checkpoint = "./checkpoints/original/phoBERT_base" 
-    model = AutoModelForSequenceClassification.from_pretrained(model_checkpoint)
+    # model_checkpoint = "./checkpoints/original/phoBERT_base" 
+    model = AutoModelForSequenceClassification.from_pretrained(SEQ_CLS_MODEL_CHECKPOINT)
 
     print(f" \
     Tokenizer checkpoint: {tokenizer_checkpoint} \
-    Model checkpoint: {model_checkpoint} \
+    Model checkpoint: {SEQ_CLS_MODEL_CHECKPOINT} \
     Use pretrained: {use_pretrained} \
     Use new tokens: {use_new_tokens} \
     ")
@@ -159,7 +159,7 @@ if __name__ == "__main__":
     print(learning_log)
     # if model_destination_path:
 
-    model_destination_path = "./checkpoints/2022-04-07"
+    model_destination_path = "./checkpoints/2022-06-22"
     model.save_pretrained(model_destination_path)
     torch.save(optimizer.state_dict(), f"./checkpoints/optimizer.pth")
 
