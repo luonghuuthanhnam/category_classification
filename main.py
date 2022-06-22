@@ -66,7 +66,7 @@ if __name__ == "__main__":
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
     # DECLARE TOKENIZER
-    tokenizer_checkpoint = f"./tokenizers/{'new-tokens-added' if  use_new_tokens else 'original'}/tokenizer"
+    tokenizer_checkpoint = "./tokenizer_added_new_token"
     print(tokenizer_checkpoint)
     tokenizer = AutoTokenizer.from_pretrained(tokenizer_checkpoint)
 
