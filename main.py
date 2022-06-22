@@ -82,7 +82,7 @@ if __name__ == "__main__":
     ")
 
     if use_pretrained:
-        mlm_checkpoint = f"./phobert-base-finetuned-domain-specific/checkpoint-{'new-tokens' if  use_new_tokens else 'no-new-tokens'}"
+        mlm_checkpoint = f"./checkpoint-{'new-tokens' if  use_new_tokens else 'no-new-tokens'}"
         print(f"MaskedLM checkpoint: {mlm_checkpoint}")
         mlm_model = AutoModelForMaskedLM.from_pretrained(mlm_checkpoint)
         model.roberta = mlm_model.roberta

@@ -89,17 +89,37 @@ def evaluate(model, dataloader, loss_function=None, device="cpu"):
     return mean_val_loss, np.mean(epoch_val_acc), np.mean(f1_val_score)
 
 
-def prettify_text(text: str) -> str:
-    text = text.lower().strip()
-    # Remove words including both letter(s) and digit(s). Note: DON'T remove words like PO1234
-    pattern = r'''(\b(?!PO)[A-Z\p{L}]+[*\d@.,/-]+[\w@]*|[*\d@.,/-]+[A-Z\p{L}]+[\w@]*)'''
-    text = re.sub(pattern, '', text, flags=re.IGNORECASE)
+class Prettify_Text():
+    def __init__(self, special_vocabs_path = "./special_vocabs.txt"):
+        with open(special_vocabs_path, "r") as f:
+            self.special_vocabs = f.readlines()
+            self.special_vocabs = [each.lower().strip() for each in self.special_vocabs]
+    def __call__(self, text: str) -> str:
+        special_vocabs = self.special_vocabs
+        text = text.lower().strip()
+        # Remove punctuation
+        punctuation = r"""!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~"""
+        # Remove words including both letter(s) and digit(s). Note: DON'T remove words like PO1234
+        pattern_punctuation = f"([{punctuation}])"
+        pattern_word = r'''(\b(?!PO)[A-Z\p{L}]+[*\d@.,/-]+[\w@]*|[*\d@.,/-]+[A-Z\p{L}]+[\w@]*)'''
+        prettified_list = []
+        words = text.split()
+        for word in words:
+            if word not in special_vocabs:
+                _sub_words = []
+                for each in word.split():
+                    _sub_word = re.sub(pattern_punctuation, " ", each)
+                    _sub_word = re.sub(pattern_word, ' ', _sub_word, flags=re.IGNORECASE)
+                    _sub_word = re.sub(r"\b\d{1,4}\b", " ", _sub_word)
+                    _sub_words.append(_sub_word)
+                _word = " ".join(_sub_words)
+                prettified_list.append(_word)
+            else:
+                prettified_list.append(word)
+        prettified_text = " ".join(prettified_list)
 
-    # Remove punctuation
-    punctuation = r"""!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~"""
-    pattern = f"([{punctuation}])"
-    text = re.sub(pattern, " ", text)
+        # Remove words with less than 4 digits and redundant spaces
+        prettified_text = re.sub("\s\s+" , " ", prettified_text)
 
-    # Remove words with less than 4 digits and redundant spaces
-    text = re.sub(r"\b\d{1,4}\b|\s{2,}", " ", text)
-    return text.lower().strip()
+        return prettified_text.lower().strip()
+prettify_text = Prettify_Text(special_vocabs_path = "./special_vocabs.txt")
