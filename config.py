@@ -5,12 +5,13 @@ np.random.seed(1234)
 random.seed(1234)
 
 MODEL_CHECKPOINT = "vinai/phobert-base"
-SEQ_CLS_MODEL_CHECKPOINT = "./checkpoints/original/phoBERT_base"
-TOKENIZER_CHECKPOINT = "./checkpoints/original/tokenizer"
+# SEQ_CLS_MODEL_CHECKPOINT = "./checkpoints/original/phoBERT_base"
+SEQ_CLS_MODEL_CHECKPOINT = "./pretrain_added_new_token"
+TOKENIZER_CHECKPOINT = "./tokenizer_added_new_token"
 
-DATASET_FOR_CATEGORY_CLS = (
-    "./dataset/2022-04-13/dataset_for_category_classification.json"
-)
+# DATASET_FOR_CATEGORY_CLS = (
+#     "./dataset/2022-04-13/dataset_for_category_classification.json"
+# )
 TRAIN_SET_FOR_CATEGORY_CLS = "./dataset/2022-04-13/seq_cls/train.json"
 VAL_SET_FOR_CATEGORY_CLS = "./dataset/2022-04-13/seq_cls/val.json"
 
