@@ -9,11 +9,11 @@ MODEL_CHECKPOINT = "vinai/phobert-base"
 SEQ_CLS_MODEL_CHECKPOINT = "./pretrain_added_new_token"
 TOKENIZER_CHECKPOINT = "./tokenizer_added_new_token"
 
-# DATASET_FOR_CATEGORY_CLS = (
-#     "./dataset/2022-04-13/dataset_for_category_classification.json"
-# )
-TRAIN_SET_FOR_CATEGORY_CLS = "./dataset/2022-04-13/seq_cls/train.json"
-VAL_SET_FOR_CATEGORY_CLS = "./dataset/2022-04-13/seq_cls/val.json"
+DATASET_FOR_CATEGORY_CLS = (
+    "./dataset/2022-06-27/dataset_for_category_classification.json"
+)
+TRAIN_SET_FOR_CATEGORY_CLS = "./dataset/2022-06-27/seq_cls/train.json"
+VAL_SET_FOR_CATEGORY_CLS = "./dataset/2022-06-27/seq_cls/val.json"
 
 
 VNCORENLP_JAR_PATH = "./vncorenlp/VnCoreNLP-1.1.1.jar"
